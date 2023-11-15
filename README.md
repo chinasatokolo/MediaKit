@@ -1,7 +1,7 @@
 # Speaking Engagements
 Collection of resources from prior speaking engagements and guidance on booking Chinasa for speaking engagements.
 
-**Media Contact:**
+**Media Contact:** \
 The Brookings Institution \
 Governance Studies Media Office \
 gsmedia@brookings.edu \
