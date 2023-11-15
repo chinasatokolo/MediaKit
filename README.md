@@ -9,5 +9,5 @@ gsmedia@brookings.edu \
 
 or my [Brookings Website Contact Form](https://www.brookings.edu/people/chinasa-t-okolo/)
 
-Please refer to my speaker rider (in development) for best guidance on booking me for panels, workshops, conference, and webinar speaking engagements.
+Please refer to my speaker rider ([published document](https://docs.google.com/document/d/e/2PACX-1vTM_tx4L2vHMlje0B1CFRSvxyZLxptocg5zGQDQZcYK5Tf55ZebnemmsSyBhRczsHr736WMz1Nr59RT/pub) or here) for best guidance on booking me for panels, workshops, conference, and webinar speaking engagements.
 
