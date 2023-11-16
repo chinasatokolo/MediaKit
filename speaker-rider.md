@@ -34,7 +34,7 @@ The sections below detail my preferences for in-person events. For hybrid or rem
 As a speaker, I request a ticket to access the full event to enhance my participation and engagement with other speakers, panelists, and attendees.
 
 ### Marketing
-Please refer to this document for my approved biography, headshot, and name pronunciation. I request that my middle initial “T.” be used in all formal correspondence and marketing materials (“Chinasa T. Okolo” not “Chinasa Okolo”).
+Please refer to this [document](https://github.com/chinasaokolo/MediaKit/blob/main/biography-details.md) for my approved biography and name pronunciation. My headshots are available [here](https://github.com/chinasaokolo/MediaKit/tree/main/images/headshots). I request that my middle initial “T.” be used in all formal correspondence and marketing materials (“Chinasa T. Okolo” not “Chinasa Okolo”).
 
 I am also happy to promote my involvement in your event on social media. If necessary, please provide me with any social media templates or blurbs/hashtags to use. 
 
@@ -61,7 +61,7 @@ Given the perpetual existence of COVID-19, I prefer to attend events that follow
 If needed, security should be provided for in-person events. 
 
 ### Data Privacy
-I do not consent to having my data sold or shared. Every effort should be in place to ensure the privacy of my data and those of other speakers and attendees. My personal information, especially information used to book travel and accommodation, should be collected and stored per General Data Protection Regulation (GDPR) guidelines. 
+I do not consent to having my data sold or shared. Every effort should be in place to ensure the privacy of my data and those of other speakers and attendees. My personal information, especially information used to book travel and accommodation, should be collected and stored per [General Data Protection Regulation (GDPR)](https://gdpr.eu) guidelines. 
 
 
 #### Credits
