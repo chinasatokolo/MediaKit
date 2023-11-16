@@ -31,7 +31,7 @@ I prefer that travel and accommodation be booked on my behalf. In cases where it
 The sections below detail my preferences for in-person events. For hybrid or remote events, I prefer to give live presentations. I am also open to pre-recorded presentations for events in significantly different time zones.
 
 ### Ticketing
-As a speaker, I request a ticket to access the full event to enhance my participation and engagement with other speakers/panelists/attendees.
+As a speaker, I request a ticket to access the full event to enhance my participation and engagement with other speakers, panelists, and attendees.
 
 ### Marketing
 Please refer to this document for my approved biography, headshot, and name pronunciation. I request that my middle initial “T.” be used in all formal correspondence and marketing materials (“Chinasa T. Okolo” not “Chinasa Okolo”).
