@@ -1,13 +1,13 @@
 # Media Kit
 Comprehensive media kit, collection of resources from prior speaking engagements, and guidance on booking Chinasa T. Okolo for speaking engagements.
 
+To contact me for speaking engagements, please email Brookings' Governance Studies Media Office or contact me directly through my [Brookings Website Contact Form](https://www.brookings.edu/people/chinasa-t-okolo/)
+
 **Media Contact:** \
 The Brookings Institution \
 Governance Studies Media Office \
 gsmedia@brookings.edu \
-202.770.6520
-
-To contact me for speaking engagements, please email Brookings' Governance Studies Media Office or contact me directly through my [Brookings Website Contact Form](https://www.brookings.edu/people/chinasa-t-okolo/)
++1 (202) 770-6520
 
 My approved biography is [here](https://github.com/chinasaokolo/MediaKit/blob/main/biography-details.md), and approved headshots are [here](https://github.com/chinasaokolo/MediaKit/tree/main/images/headshots).
 
