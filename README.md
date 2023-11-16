@@ -18,5 +18,5 @@ Please refer to my speaker rider ([here](https://docs.google.com/document/d/e/2P
 For interviews, please follow the guidelines listed [here](https://github.com/chinasaokolo/MediaKit/blob/main/interview-guide.md).
 
 
-
+### Licensing
 _All content in this media kit is copyrighted by Chinasa T. Okolo. It is available under a [Creative Commons Attribution 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)._
