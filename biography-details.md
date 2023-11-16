@@ -1,4 +1,4 @@
-# Biography
+# Biography & Personal Details
 Chinasa T. Okolo, Ph.D. \
 www.chinasatokolo.com
 
