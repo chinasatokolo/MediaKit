@@ -14,7 +14,7 @@ Due to the complexity of speaking arrangements, I do not have a standard honorar
 I am based at the Brookings Institution, a nonprofit organization. Given Brookings’ limited ability to cover travel for scholars, I request that my travel (airfare, ground transportation, accommodation, and meals) be covered by organizations or individuals requesting my participation at events.
 
 ### Flight and Ground Transportation
-I am based in Washington, D.C., and typically travel out of Washington Dulles Airport (IAD) or Ronald Reagan Airport (DCA). My preferred airline is United Airlines when flying domestically and internationally. For travel to international locations not directly served by United, I prefer to be booked with Star Alliance partners (e.g., Lufthansa, Brussels Airlines, Turkish Airlines). All flight bookings should be in premium economy class or higher (no basic economy).
+I am based in Washington, D.C., and typically travel out of Washington Dulles Airport (IAD) or Ronald Reagan Airport (DCA). My preferred airline is United Airlines when flying domestically and internationally. For travel to international locations not directly served by United, I prefer to be booked with [Star Alliance partners](https://www.staralliance.com/en/members) (e.g., Lufthansa, Brussels Airlines, Turkish Airlines). All flight bookings should be in premium economy class or higher (no basic economy).
 
 If your event is based in/near Downtown D.C., I will gladly arrange my transportation. I request roundtrip car service/rideshare arrangements for further events within the DMV area to ensure my comfort and safety.
 
