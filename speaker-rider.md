@@ -34,7 +34,7 @@ The sections below detail my preferences for in-person events. For hybrid or rem
 As a speaker, I request a ticket to access the full event to enhance my participation and engagement with other speakers, panelists, and attendees.
 
 ### Marketing
-Please refer to this [document](https://github.com/chinasaokolo/MediaKit/blob/main/biography-details.md) for my approved biography and name pronunciation. My headshots are available [here](https://github.com/chinasaokolo/MediaKit/tree/main/images/headshots). I request that my middle initial “T.” be used in all formal correspondence and marketing materials (“Chinasa T. Okolo” not “Chinasa Okolo”).
+Please refer to this [document](https://github.com/chinasaokolo/MediaKit/blob/main/biography-details.md) for my approved biography and name pronunciation. My headshots are available [here](https://github.com/chinasaokolo/MediaKit/tree/main/images/headshots). I request that my middle initial “T.” be used in all formal correspondence and marketing materials (“Chinasa T. Okolo” not “Chinasa Okolo”). My title (Dr. or Ph.D.) should be added to my name when appropriate.
 
 I am also happy to promote my involvement in your event on social media. If necessary, please provide me with any social media templates or blurbs/hashtags to use. 
 
