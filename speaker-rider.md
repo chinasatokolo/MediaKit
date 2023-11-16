@@ -18,7 +18,7 @@ I am based in Washington, D.C., and typically travel out of Washington Dulles Ai
 
 If your event is based in/near Downtown D.C., I will gladly arrange my transportation. I request roundtrip car service/rideshare arrangements for further events within the DMV area to ensure my comfort and safety.
 
-I request that local transportation to the event venue be provided during the event unless it is within walking distance from my accommodation.
+For events outside of D.C., I request that local transportation to the event venue be provided during the event unless it is within walking distance from my accommodation.
 
 ### Accommodation
 For domestic and international events outside of Washington, D.C., and for which air travel is required, I request accommodation for the evening before and throughout the event or until the day after my speaking engagement.
