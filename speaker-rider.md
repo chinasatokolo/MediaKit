@@ -52,7 +52,7 @@ For panels or other event setups that require moderation, I request that questio
 I appreciate having access to photos and recordings taken throughout my participation in your event. If required, please share a release form to obtain my consent beforehand. All speaking materials are the intellectual property of Chinasa T. Okolo unless I am contracted to create content specifically for your event.
 
 ### Accessibility
-For the comfort and safety of myself and all participants, I request standard accessibility measures for all in-person and remote events. In-person events should be accessible in accordance with standards set by the Americans with Disabilities Act and in compliance with local facility access requirements. Online events should be accessible in accordance with WCAG AA guidelines. To assist with live-captioning for in-person/remote events, I am happy to share the script of my presentation.
+For the comfort and safety of myself and all participants, I request standard accessibility measures for all in-person and remote events. In-person events should be accessible in accordance with standards set by the [Americans with Disabilities Act](https://www.access-board.gov/ada/#ada-221) and in compliance with local facility access requirements. Online events should be accessible in accordance with [WCAG AA](https://www.w3.org/WAI/WCAG2AA-Conformance) guidelines. To assist with live-captioning for in-person/remote events, I am happy to share the script of my presentation.
 
 ### Health Precautions
 Given the perpetual existence of COVID-19, I prefer to attend events that follow scientific guidance in handling health and environmental safety precautions.
