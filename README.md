@@ -11,8 +11,12 @@ gsmedia@brookings.edu \
 
 My approved biography is [here](https://github.com/chinasaokolo/MediaKit/blob/main/biography-details.md), and approved headshots are [here](https://github.com/chinasaokolo/MediaKit/tree/main/images/headshots).
 
+## Speaking Engagements
 Please refer to my speaker rider ([here](https://docs.google.com/document/d/e/2PACX-1vTM_tx4L2vHMlje0B1CFRSvxyZLxptocg5zGQDQZcYK5Tf55ZebnemmsSyBhRczsHr736WMz1Nr59RT/pub) or [here](https://github.com/chinasaokolo/MediaKit/blob/main/speaker-rider.md)) for the best guidance on booking me for panels, workshops, conferences, and webinar speaking engagements.
 
+## Interviews
 For interviews, please follow the guidelines listed [here](https://github.com/chinasaokolo/MediaKit/blob/main/interview-guide.md).
+
+
 
 _All content in this media kit is copyrighted by Chinasa T. Okolo. It is available under a [Creative Commons Attribution 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)._
