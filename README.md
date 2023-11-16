@@ -1,5 +1,5 @@
 # Media Kit
-Collection of resources from prior speaking engagements and guidance on booking Chinasa for speaking engagements.
+Comprehensive media kit, collection of resources from prior speaking engagements, and guidance on booking Chinasa T. Okolo for speaking engagements.
 
 **Media Contact:** \
 The Brookings Institution \
