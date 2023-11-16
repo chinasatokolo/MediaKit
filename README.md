@@ -13,5 +13,8 @@ My approved biography is [here](https://github.com/chinasaokolo/MediaKit/blob/ma
 
 Please refer to my speaker rider ([here](https://docs.google.com/document/d/e/2PACX-1vTM_tx4L2vHMlje0B1CFRSvxyZLxptocg5zGQDQZcYK5Tf55ZebnemmsSyBhRczsHr736WMz1Nr59RT/pub) or [here](https://github.com/chinasaokolo/MediaKit/blob/main/speaker-rider.md)) for the best guidance on booking me for panels, workshops, conferences, and webinar speaking engagements.
 
-For interviews, please follow the guidelines listed here.
+For interviews, please follow the guidelines listed [here](https://github.com/chinasaokolo/MediaKit/blob/main/interview-guide.md).
+
+This content is copyrighted by Chinasa T. Okolo. It is available under a [Creative Commons Attribution 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
 
