@@ -9,6 +9,7 @@ Governance Studies Media Office \
 gsmedia@brookings.edu \
 +1 (202) 770-6520
 
+## Biography & Headshots
 My approved biography is [here](https://github.com/chinasaokolo/MediaKit/blob/main/biography-details.md), and approved headshots are [here](https://github.com/chinasaokolo/MediaKit/tree/main/images/headshots).
 
 ## Speaking Engagements
