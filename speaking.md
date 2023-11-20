@@ -86,7 +86,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 ## General Events
 * **November 2023:** Moderator for “[AI safety beyond the UK Summit: A conversation with Secretary Michelle Donelan”](https://www.brookings.edu/events/ai-safety-beyond-the-uk-summit-secretary-donelan/), The Brookings Institution 
 * **February 2021:** Moderator for [“Navigating Venture Capital Investments: The Good, The Bad, and The Ugly”](https://www.youtube.com/watch?app=desktop&v=8sh0FTxQUNA), Doing Good Work in Africa (DOWA)
-* **November 2020:** Moderator at [“Black Entrepreneurship: Overcoming Adversity and Staying Focused”](https://ecornell.cornell.edu/keynotes/overview/K112420/), eCornell
+* **November 2020:** Moderator for [“Black Entrepreneurship: Overcoming Adversity and Staying Focused”](https://ecornell.cornell.edu/keynotes/overview/K112420/), eCornell
 * **March 2020:** Speaker at the Empowerment Month Roundtable Discussion hosted by Cornell Graduate Women in Science & 500 Women Scientists
 
 
