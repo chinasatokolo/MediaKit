@@ -59,8 +59,8 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 ## Panels
 * **November 2023:** [“AI safety beyond the UK Summit: A conversation with Secretary Michelle Donelan”](https://www.brookings.edu/events/ai-safety-beyond-the-uk-summit-secretary-donelan/) 
 * **October 2023:** [“Why the Global South has a stake in dialogues on AI governance”](https://www.brookings.edu/events/why-the-global-south-has-a-stake-in-dialogues-on-ai-governance) 
-* **Mar 2022:** URMC Graduate School & Research Panel
-* **Oct 2021:** AI in Society Workshop, Cornell University
+* **March 2022:** URMC Graduate School & Research Panel
+* **October 2021:** AI in Society Workshop, Cornell University
 * **May 2021:** [Stockholm Internet Forum](https://stockholminternetforum.se/live-stream/)
 * **March 2021:** Grad Student Workshop Series, Cornell Undergraduate Research Board (CURB)
 * **February 2021:** ColorStack Sprout Research/Academia Panel
