@@ -42,7 +42,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **August 2020:** [“Is There a Right to ‘Facial Anonymity’?”](https://thecrimereport.org/2020/08/03/is-there-a-right-to-facial-anonymity/) in The Crime Report 
 
 
-## Media Features
+## Media & Research Features
 * **May 2022:** [“Global labor chains of the western AI”](https://netzpolitik.org/2022/series-on-digital-colonialism-global-labor-chains-of-the-western-ai/) in Netzpolitik
 * **April 2022:** AI: [“This is why the developing world is far behind – and that’s a problem for all of us”](https://www.weforum.org/agenda/2022/04/developing-countries-are-being-left-behind-in-the-ai-race-and-that-s-a-problem-for-all-of-us/) in World Economic Forum 
 * **April 2022:** [“Developing countries are being left behind in the AI race – and that's a problem for all of us”](https://uk.news.yahoo.com/developing-countries-being-left-behind-114724193.html?guccounter=1) in Yahoo! News 
