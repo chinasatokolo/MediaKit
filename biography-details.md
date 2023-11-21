@@ -27,4 +27,6 @@ Twitter: [@ChinasaTOkolo](https://www.twitter.com/ChinasaTOkolo)
 ## Name Pronunciation
 First name: Chee-nah-sah 		Last Name: Oh-koh-loh
 
-Note: Please keep the “T.” in Chinasa T. Okolo in all formal communications and marketing copy
+
+
+_Note: Please keep the “T.” in Chinasa T. Okolo in all formal communications and marketing copy_
