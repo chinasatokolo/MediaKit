@@ -23,7 +23,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **May 2021:** [2nd ELLIS Workshop on Human-Centric Machine Learning](https://sites.google.com/view/hcml2021?pli=1) 
 * **May 2021:** Keynote Talk, [Practical Machine Learning for Developing Countries Workshop @ ICLR](https://pml4dc.github.io/iclr2021/)
 * **March 2021:** [Blackathon - A Virtual Hackathon for the Diaspora](https://www.youtube.com/watch?v=AeOrebln568)  
-* **November 2020:** Data Science for Social Good Workshop](https://ds4sg.gatech.edu/speakers/), Georgia Tech 
+* **November 2020:** [Data Science for Social Good Workshop](https://ds4sg.gatech.edu/speakers/), Georgia Tech 
 * **October 2020:** Spotlight Talk at the [Michigan AI Symposium: AI and Health](https://ai.engin.umich.edu/events/2020-ai-symposium/) 
 * **December 2019:** [Women in AI Ignite Session](https://womeninaiigniteatneurips.splashthat.com/), NeurIPS
 
