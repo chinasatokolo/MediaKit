@@ -21,7 +21,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **July 2022:** AI for Social Good Group Seminar, Google Research India
 * **June 2021:** Science Research Mentoring Program (SRMP), American Museum of Natural History
 * **May 2021:** [2nd ELLIS Workshop on Human-Centric Machine Learning](https://sites.google.com/view/hcml2021?pli=1) 
-* **May 2021:** Keynote Talk, Practical Machine Learning for Developing Countries Workshop @ ICLR
+* **May 2021:** Keynote Talk, [Practical Machine Learning for Developing Countries Workshop @ ICLR](https://pml4dc.github.io/iclr2021/)
 * **March 2021:** [Blackathon - A Virtual Hackathon for the Diaspora](https://www.youtube.com/watch?v=AeOrebln568)  
 * **November 2020:** Data Science for Social Good Workshop](https://ds4sg.gatech.edu/speakers/), Georgia Tech 
 * **October 2020:** Spotlight Talk at the [Michigan AI Symposium: AI and Health](https://ai.engin.umich.edu/events/2020-ai-symposium/) 
@@ -44,12 +44,12 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 ## Media & Research Features
 * **May 2022:** [“Global labor chains of the western AI”](https://netzpolitik.org/2022/series-on-digital-colonialism-global-labor-chains-of-the-western-ai/) in Netzpolitik
-* **April 2022:** AI: [“This is why the developing world is far behind – and that’s a problem for all of us”](https://www.weforum.org/agenda/2022/04/developing-countries-are-being-left-behind-in-the-ai-race-and-that-s-a-problem-for-all-of-us/) in World Economic Forum 
+* **April 2022:** [“This is why the developing world is far behind – and that’s a problem for all of us”](https://www.weforum.org/agenda/2022/04/developing-countries-are-being-left-behind-in-the-ai-race-and-that-s-a-problem-for-all-of-us/) in World Economic Forum 
 * **April 2022:** [“Developing countries are being left behind in the AI race – and that's a problem for all of us”](https://uk.news.yahoo.com/developing-countries-being-left-behind-114724193.html?guccounter=1) in Yahoo! News 
 * **January 2022:** [“Is AI fast becoming a technology built on worker exploitation from Global South?”](http://analyticsindiamag.com/is-ai-fast-becoming-a-technology-built-on-worker-exploitation-from-global-south/) in Analytics India Magazine 
 * **October 2021:** [“Much ‘Artificial Intelligence’ Is Still People Behind a Screen”](https://www.bloomberg.com/opinion/articles/2021-10-13/how-good-is-ai-much-artificial-intelligence-is-still-people-behind-a-screen) in Bloomberg and The Washington Post 
 * **August 2021:** [“How a Ph.D. student thinks about artificial intelligence, VC”](https://blog.dormroomfund.com/post/how-a-ph-d-student-thinks-about-artificial-intelligence-vc) in Dorm Room Fund
-* **July 2021:** 2021 [“DPE Awards recognize outstanding students, faculty, staff”](https://www.engineering.cornell.edu/news/2021-dpe-awards-recognize-outstanding-students-faculty-staff) in Cornell Engineering News 
+* **July 2021:** [“2021 DPE Awards recognize outstanding students, faculty, staff”](https://www.engineering.cornell.edu/news/2021-dpe-awards-recognize-outstanding-students-faculty-staff) in Cornell Engineering News 
 * **March 2021:** [“Is AI Deepening the Divide Between the Global North and South?”](https://www.newsweek.com/ai-deepening-divide-between-global-north-south-opinion-1574141) in Newsweek
 * **March 2021:** [“Underpaid Workers Are Being Forced to Train Biased AI on Mechanical Turk”](https://www.vice.com/en/article/88apnv/underpaid-workers-are-being-forced-to-train-biased-ai-on-mechanical-turk) in VICE 
 * **February 2021:** [“The AI industry is built on geographic and social inequality, research shows”](https://venturebeat.com/business/the-ai-industry-is-built-on-geographic-and-social-inequality-research-shows/) by VentureBeat 
