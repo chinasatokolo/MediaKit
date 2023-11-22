@@ -77,6 +77,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Interviews & Podcasts
+* **September 2023** [Equitable AI Development in the Global South with Chinasa Okolo ’18](https://www.pomona.edu/sagecast), Pomona College Sagecast
 * **August 2022:** [How to Craft Your Pitch](https://open.spotify.com/episode/0sNaoCsdqNFGbntyFKFdS7), Startup School by Ajim Capital 
 * **January 2022:** [#28: Talking AI, AI ethics, and microinvesting ft. Chinasa T. Okolo](https://www.listennotes.com/podcasts/the-black/28-talking-ai-ai-ethics-and-R8L1hwbpiDH/), The Black Enterprise Network
 * **February 2021:** [You Belong in AI! S2E2 - Chinasa T. Okolo](https://podcasters.spotify.com/pod/show/ucla-acm-ai/episodes/You-Belong-in-AI--S2E2--Chinasa-Okolo-eqo53u), UCLA ACM AI Outreach
