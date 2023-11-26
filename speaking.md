@@ -69,7 +69,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **December 2020:** Cornell New Visions Engineering Program
 * **November 2020:** National Society of Black Engineers Post-Undergrad Panel, Johns Hopkins
 * **October 2020:** "Voices from the Field" Panel, GEM Grad Lab @ SUNY Albany
-* **September 2020:** "How Can Ph.D. and Postdocs Pursue Entrepreneurship?", Women Entrepreneurs at Cornell
+* **September 2020:** ["How Can Ph.D. and Postdocs Pursue Entrepreneurship?"](https://youtu.be/ALekA6t67ZY), Women Entrepreneurs Cornell
 * **June 2020:** CS Rising SophoMore (CSMore) Summer Program PhD Panel
 * **October 2019:** Entrepreneurship & Technology Panel, Cornell African Development Conference 
 * **August 2019:** ["Mastering Your Transition Into and Progression Through Graduate School"](https://gradschool.cornell.edu/diversity-inclusion/signature-initiatives/summer-success-symposium/2019-summer-success-symposium-bios/), Cornell Summer Success Symposium  
@@ -82,7 +82,10 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **January 2022:** [#28: Talking AI, AI ethics, and microinvesting ft. Chinasa T. Okolo](https://www.listennotes.com/podcasts/the-black/28-talking-ai-ai-ethics-and-R8L1hwbpiDH/), The Black Enterprise Network
 * **February 2021:** [You Belong in AI! S2E2 - Chinasa T. Okolo](https://podcasters.spotify.com/pod/show/ucla-acm-ai/episodes/You-Belong-in-AI--S2E2--Chinasa-Okolo-eqo53u), UCLA ACM AI Outreach
 * **October 2020:** [TechGal Diaries](https://www.youtube.com/watch?v=EQKcEls9g-k)
-* **April 2018:** [#NewFaceofTech 2018: Q&A with 2017 Winner Chinasa Okolo](https://news.harman.com/blog/newfaceoftech-2018-q-a-with-2017-winner-chinasa-okolo), HARMAN 
+* **April 2018:** [#NewFaceofTech 2018: Q&A with 2017 Winner Chinasa Okolo](https://news.harman.com/blog/newfaceoftech-2018-q-a-with-2017-winner-chinasa-okolo), HARMAN
+* **October 2018:** [Kauffman Scholars Program Impact](https://youtu.be/mZ2d1nyE878), Kauffman Foundation 
+* **July 2014:** [2014 Graduate Highlight: Chinasa T. Okolo](https://youtu.be/ZfDiILkf7To), Kansas City Public Schools 
+
 
 ## General Events
 * **November 2023:** Moderator for “[AI safety beyond the UK Summit: A conversation with Secretary Michelle Donelan”](https://www.brookings.edu/events/ai-safety-beyond-the-uk-summit-secretary-donelan/), The Brookings Institution 
