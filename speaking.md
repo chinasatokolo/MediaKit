@@ -5,7 +5,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Invited Talks 
-* **December 2023:** [Towards a Digital Frontier: The Next Stage of Africa’s AI Startup Ecosystem](https://www.aiforafrica.org/aifa23), AI for Africa Conference in conjunction with the African Startup Conference
+* **December 2023:** [AI for Africa Conference](https://www.aiforafrica.org/aifa23), in conjunction with the African Startup Conference
 * **December 2023:** [Policymaking for AI & Web3: Advancements in Global AI Policy](https://gettingplurality.org/ai-regulator-workshop-series/), Getting Plurality Research Network (Harvard University Allen Lab for Democracy Renovation and MIT Connection Science)
 * **November 2023:** [The Future of AI Governance Webinar](https://www.eventbrite.co.uk/e/the-future-of-ai-governance-tickets-756217977327), EquiAI Initiative at the University of Durham
 * **October 2023:** [AI + Society Forum](https://www.aisocietyforum.net/programme), Wellcome Collection 
@@ -59,6 +59,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Panels
+* **December 2023:** [Panel 10: AI-Powered Innovation: Exploring the Impact of Generative AI on African Startups], African Startup Conference
 * **November 2023:** [“AI safety beyond the UK Summit: A conversation with Secretary Michelle Donelan”](https://www.brookings.edu/events/ai-safety-beyond-the-uk-summit-secretary-donelan/) 
 * **October 2023:** [“Why the Global South has a stake in dialogues on AI governance”](https://www.brookings.edu/events/why-the-global-south-has-a-stake-in-dialogues-on-ai-governance) 
 * **March 2022:** URMC Graduate School & Research Panel
