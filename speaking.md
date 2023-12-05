@@ -59,7 +59,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Panels
-* **December 2023:** [Panel 10: AI-Powered Innovation: Exploring the Impact of Generative AI on African Startups], African Startup Conference
+* **December 2023:** AI-Powered Innovation: Exploring the Impact of Generative AI on African Startups, African Startup Conference
 * **November 2023:** [“AI safety beyond the UK Summit: A conversation with Secretary Michelle Donelan”](https://www.brookings.edu/events/ai-safety-beyond-the-uk-summit-secretary-donelan/) 
 * **October 2023:** [“Why the Global South has a stake in dialogues on AI governance”](https://www.brookings.edu/events/why-the-global-south-has-a-stake-in-dialogues-on-ai-governance) 
 * **March 2022:** URMC Graduate School & Research Panel
