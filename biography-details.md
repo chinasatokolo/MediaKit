@@ -23,9 +23,12 @@ Dr. Chinasa T. Okolo is currently a Fellow at The Brookings Institution and a re
 
 ## Social Media
 Twitter: [@ChinasaTOkolo](https://www.twitter.com/ChinasaTOkolo)
+Facebook: [Chinasa T. Okolo](https://www.facebook.com/ChinasaTOkolo)
+LinkedIn: [Chinasa T. Okolo](https://www.linkedin.com/in/chinasatokolo)
 
 ## Name Pronunciation
-First name: Chee-nah-sah 		Last Name: Oh-koh-loh
+First name: Chee-nah-sah 		
+Last Name: Oh-koh-loh
 
 
 
