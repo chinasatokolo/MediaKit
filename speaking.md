@@ -10,16 +10,16 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **December 2023:** [Policymaking for AI & Web3: Advancements in Global AI Policy](https://gettingplurality.org/ai-regulator-workshop-series/), Getting Plurality Research Network (Harvard University Allen Lab for Democracy Renovation and MIT Connection Science)
 * **November 2023:** [The Future of AI Governance Webinar](https://www.eventbrite.co.uk/e/the-future-of-ai-governance-tickets-756217977327), EquiAI Initiative at the University of Durham
 * **October 2023:** [AI + Society Forum](https://www.aisocietyforum.net/programme), Wellcome Collection 
-* **October 2023:** Georgetown Hoyalytics Seminar
+* **October 2023:** Georgetown Hoyalytics Seminar, Georgetown University
 * **September 2023:** [Pomona College Computer Science Colloquium](https://www.pomona.edu/academics/departments/computer-science/colloquium)
-* **August 2023:** [Yale Digital Humanities Lab Seminar Series](https://library.yale.edu/event/ai-explainability-global-south-0)
-* **May 2023:** Stanford Management Science and Engineering (MS&E) [Rising Stars Workshop](https://msandedei.stanford.edu/events/rising-stars)
+* **August 2023:** [Yale Digital Humanities Lab Seminar Series](https://library.yale.edu/event/ai-explainability-global-south-0), Yale University
+* **May 2023:** Stanford Management Science and Engineering (MS&E) [Rising Stars Workshop](https://msandedei.stanford.edu/events/rising-stars), Stanford University
 * **April 2023:** [Many Worlds of AI Conference](https://www.desirableai.com/many-worlds), University of Cambridge 
 * **April 2023:** [MIDAS Future Leaders Summit](https://midas.umich.edu/future-leaders-summit-2023/#attendees), University of Michigan 
 * **March 2023:** [Microsoft Africa Research Institute (MARI) Seminar](https://www.microsoft.com/en-us/research/group/microsoft-africa-research-institute-mari/seminars/) 
-* **February 2023:** [Penn State CSRAI's Young Achievers Symposium](https://csrai.psu.edu/news-events/events/chinasa-okolo)
-* **October 2022:** University of Washington Change Seminar
-* **August 2022:** University of Queensland [AI4PAN Artificial Intelligence for Pandemics Seminar Series](https://smp.uq.edu.au/event/session/12597)
+* **February 2023:** [CSRAI Young Achievers Symposium](https://csrai.psu.edu/news-events/events/chinasa-okolo), Penn State 
+* **October 2022:** Change Seminar, University of Washington 
+* **August 2022:** [AI4PAN Artificial Intelligence for Pandemics Seminar Series](https://smp.uq.edu.au/event/session/12597), University of Queensland
 * **July 2022:** Microsoft Research Technology & Empowerment (TEM) Seminar, Microsoft Research India
 * **July 2022:** AI for Social Good Group Seminar, Google Research India
 * **June 2021:** Science Research Mentoring Program (SRMP), American Museum of Natural History
