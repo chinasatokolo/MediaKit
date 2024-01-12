@@ -37,6 +37,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Media Commentary
+* **January 2024:** [“The dangers of AI in global development”](https://www.devex.com/news/the-dangers-of-ai-in-global-development-106798) in Devex 
 * **November 2023:** [“AI Needs Rules, but Who Will Get to Make Them?”](https://www.scientificamerican.com/article/who-actually-gets-to-make-the-rules-about-ai/) in Scientific American 
 * **November 2023:** [“Civil society groups issue a surprise open letter to the U.K.’s AI Safety Summit”](https://www.fastcompany.com/90976518/civil-society-groups-open-letter-uk-ai-safety-summit) in Fast Company
 * **September 2023:** [“Artificial Intelligence Experts envision a transformative future for Africa”](https://www.nepad.org/news/artificial-intelligence-experts-envision-transformative-future-africa) in African Union Development Agency News
