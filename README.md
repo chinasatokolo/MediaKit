@@ -15,7 +15,7 @@ My approved biography is [here](https://github.com/chinasatokolo/MediaKit/blob/m
 ## Speaking Engagements
 Please refer to my [speaker rider](https://github.com/chinasatokolo/MediaKit/blob/main/speaker-rider.md) for the best guidance on booking me for panels, workshops, conferences, and webinar speaking engagements.
 
-Feel free to check out my [list](https://github.com/chinasatokolo/MediaKit/blob/main/speaking.md) of prior speaking engagements!
+Feel free to check out my prior [speaking engagements](https://github.com/chinasatokolo/MediaKit/blob/main/speaking.md) and [notable events](https://github.com/chinasatokolo/MediaKit/blob/main/notable-engagements.md) I have been invited to participate in.
 
 ## Interviews
 For interviews, please follow the guidelines listed [here](https://github.com/chinasatokolo/MediaKit/blob/main/interview-guide.md).
