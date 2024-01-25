@@ -1,6 +1,7 @@
 # Notable Engagements
 A list of prior engagements from Dr. Chinasa T. Okolo. Links to event webpages have been provided as available.
-Please follow the guidance in my [Speaker Rider](https://github.com/chinasatokolo/MediaKit/blob/main/speaker-rider.md) if you are interested in booking me for an event.
+
+_Please follow the guidance in my [Speaker Rider](https://github.com/chinasatokolo/MediaKit/blob/main/speaker-rider.md) if you are interested in booking me for an event._
 
 ## Roundtables & Summits
 * **January 2024:** UC Berkeley Summit on Safeguarding the Development of AI — _Berkeley, CA_
