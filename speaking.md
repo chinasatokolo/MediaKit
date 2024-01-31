@@ -5,6 +5,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Invited Talks 
+* **January 2024:** [World Environmental Education Congress (WEEC '24)](https://www.weec2024.org)
 * **December 2023:** [DZGENAI'23](https://dzgenai.com/), Algeria AI
 * **December 2023:** [AI for Africa Conference](https://www.aiforafrica.org/aifa23), in conjunction with the African Startup Conference
 * **December 2023:** [Policymaking for AI & Web3: Advancements in Global AI Policy](https://gettingplurality.org/ai-regulator-workshop-series/), Getting Plurality Research Network (Harvard University Allen Lab for Democracy Renovation and MIT Connection Science)
