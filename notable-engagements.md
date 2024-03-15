@@ -4,7 +4,8 @@ A list of prior engagements from Dr. Chinasa T. Okolo. Links to event webpages h
 _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatokolo/MediaKit/blob/main/speaker-rider.md) if you are interested in booking me for an event._
 
 ## Roundtables & Summits
-* **March 2024:** CSIS Workshop on Advancing the G7 Hiroshima AI Process in 2024, _Washington, D.C._
+* **March 2024:** PAI Listening Session with NIST — _Remote_
+* **March 2024:** CSIS Workshop on Advancing the G7 Hiroshima AI Process in 2024 — _Washington, D.C._
 * **February 2024:** CSIS Private Roundtable on AI Governance — _Washington, D.C._
 * **January 2024:** UC Berkeley Summit on Safeguarding the Development of AI — _Berkeley, CA_
 * **January 2024:** Google Information Quality and AI Roundtable — _Washington, D.C._
