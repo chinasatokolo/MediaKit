@@ -5,6 +5,18 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Invited Talks 
+* **May 2024:** Keynote in the AI, Digital & Data Solutions for Health Session at UNDP’s HIV and Health Community of Practice Meeting  — _Virtual/Istanbul, Turkey_
+* **April 2024:** Mozilla Seminar: Incorporating Trustworthiness as a Grounding Principle for AI in Africa — _Virtual_
+* **April 2024:** [I-GMAP Frontiers of Prevention Conference](https://frontiersofprevention.carrd.co/#) — _Binghamton, NY_
+* **March 2024:** Inclusive AI Governance Lecture, Georgetown University — _Washington, D.C._
+* **March 2024:** [Equiano Institute AI Fellowship](https://www.equiano.institute/governance) — _Virtual_
+* **March 2024:** [CEMRI](https://cemri.org/) Roundtable on the Implications of ChatGPT and Other AI Tools for Education in Africa — _Virtual_
+* **March 2024:** [University of Maryland Values-Centered AI Seminar](https://talks.cs.umd.edu/talks/3730) — _College Park, MD_
+* **March 2024:** [CEPS Ideas Lab Plenary Session on the Future Governance of AI](https://www.ceps.eu/ceps-ideas-lab/) — _Brussels, Belgium_
+* **February 2024:** [University of Florida Center for African Studies Seminar Series](https://africa.ufl.edu/calendar/) — _Gainesville, FL_
+* **February 2024:** [UT Austin Institute for Urban Policy Research & Analysis (IUPRA) Seminar Series on Race, Ethnicity, and Public Policy](https://liberalarts.utexas.edu/iupra/events/globalizing-perspectives-on-ai-governance-africa-s-role-in-international-ai-cooperation) — _Austin, TX_
+* **February 2024:** [German Federal Foreign Office](https://www.datainnovationlab.de) Data Innovation Lab Webinar — _Virtual_
+* **February 2024:** [Forum for Cooperation on AI (FCAI) Roundtable on AI Development and Inclusion of the Global South](https://www.brookings.edu/projects/the-forum-for-cooperation-on-artificial-intelligence/) — _Virtual_
 * **January 2024:** [World Environmental Education Congress (WEEC '24)](https://www.weec2024.org)
 * **December 2023:** [DZGENAI'23](https://dzgenai.com/), Algeria AI
 * **December 2023:** [AI for Africa Conference](https://www.aiforafrica.org/aifa23), in conjunction with the African Startup Conference
@@ -62,6 +74,10 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Panels
+* **April 2024:** [Stanford HAI AI+Policy Symposium: A Global Stocktaking](https://hai.stanford.edu/events/aipolicy-symposium-global-stocktaking) — _Stanford, CA_
+* **April 2024:** CRPE Think Forward AI Learning Forum, Anchoring AI in Policy and Politics of Change Session — _Albuquerque, NM_
+* **February 2024:** [Digital & AI: The Power of New Technology in Africa Panel at the Harvard Africa Health Conference](https://www.hsph.harvard.edu/africa-health-conference/agenda/) ([Recording](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aaf933a8-66ea-4e9a-a626-b11800e86ec2)) — _Cambridge, MA_
+* **February 2024:** [BEYA STEM Conference Panel on Inclusive Tech](https://s4.goeshow.com/ccgroup/beyastem/2024/full_schedule.cfm) — _Baltimore, MD_
 * **December 2023:** [AI-Powered Innovation: Exploring the Impact of Generative AI on African Startups](https://africanstartupconference.org/en), African Startup Conference
 * **November 2023:** [“AI safety beyond the UK Summit: A conversation with Secretary Michelle Donelan”](https://www.brookings.edu/events/ai-safety-beyond-the-uk-summit-secretary-donelan/) 
 * **October 2023:** [“Why the Global South has a stake in dialogues on AI governance”](https://www.brookings.edu/events/why-the-global-south-has-a-stake-in-dialogues-on-ai-governance) 
