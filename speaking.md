@@ -50,6 +50,9 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Media Commentary
+* **May 2024:** [“AI becomes latest frontier in China-US race for Africa”](https://www.voanews.com/a/ai-becomes-latest-frontier-in-china-us-race-for-africa/7605069.html) in Voice of Africa 
+* **April 2024:** [“Is this AI? See if you can spot the technology in your everyday life”](https://www.washingtonpost.com/technology/interactive/2024/what-is-ai/) in The Washington Post 
+* **March 2024:** [“Africa’s push to regulate AI starts now”](https://www.technologyreview.com/2024/03/15/1089844/africa-ai-artificial-intelligence-regulation-au-policy/) in MIT Technology Review 
 * **January 2024:** [“The dangers of AI in global development”](https://www.devex.com/news/the-dangers-of-ai-in-global-development-106798) in Devex 
 * **November 2023:** [“AI Needs Rules, but Who Will Get to Make Them?”](https://www.scientificamerican.com/article/who-actually-gets-to-make-the-rules-about-ai/) in Scientific American 
 * **November 2023:** [“Civil society groups issue a surprise open letter to the U.K.’s AI Safety Summit”](https://www.fastcompany.com/90976518/civil-society-groups-open-letter-uk-ai-safety-summit) in Fast Company
@@ -60,6 +63,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Media & Research Features
+* **May 2024:** [“Women in AI: Chinasa T. Okolo researches AI’s impact on the Global South”](https://techcrunch.com/2024/05/24/women-in-ai-chinasa-t-okolo-researches-ais-impact-on-the-global-south/?) in TechCrunch
 * **May 2022:** [“Global labor chains of the western AI”](https://netzpolitik.org/2022/series-on-digital-colonialism-global-labor-chains-of-the-western-ai/) in Netzpolitik
 * **April 2022:** [“This is why the developing world is far behind – and that’s a problem for all of us”](https://www.weforum.org/agenda/2022/04/developing-countries-are-being-left-behind-in-the-ai-race-and-that-s-a-problem-for-all-of-us/) in World Economic Forum 
 * **April 2022:** [“Developing countries are being left behind in the AI race – and that's a problem for all of us”](https://uk.news.yahoo.com/developing-countries-being-left-behind-114724193.html?guccounter=1) in Yahoo! News 
