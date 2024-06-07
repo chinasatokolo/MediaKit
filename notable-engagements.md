@@ -7,6 +7,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatoko
 
 * **June 2024:** FII PRIORITY Summit Rio de Janeiro Conclave: Accelerating Responsible AI in Emerging Markets — _Rio de Janeiro, Brazil_
 * **May 2024:** "An African Perspective on AI Governance" Roundtable, Carnegie Endowment for International Peace — _Washington, D.C._
+* **April 2024:** Stanford HAI AI+Policy Symposium: A Global Stocktaking — _Stanford, CA_
 * **March 2024:** PAI Listening Session with NIST — _Remote_
 * **March 2024:** CSIS Workshop on Advancing the G7 Hiroshima AI Process in 2024 — _Washington, D.C._
 * **February 2024:** CSIS Private Roundtable on AI Governance — _Washington, D.C._
