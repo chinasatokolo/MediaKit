@@ -3,7 +3,7 @@ Chinasa T. Okolo, Ph.D. \
 www.chinasatokolo.com
 
 ## Long Bio
-Dr. Chinasa T. Okolo is a Fellow in the Center for Technology Innovation within the Governance Studies program at The Brookings Institution and a recent Computer Science Ph.D. graduate from Cornell University. Her research focuses on AI governance in emerging markets, AI literacy upskilling, human-centered approaches to AI explainability, the future of data work, and leveraging AI to advance global health. 
+Dr. Chinasa T. Okolo is a Fellow in the Center for Technology Innovation within the Governance Studies program at The Brookings Institution and a recent Computer Science Ph.D. graduate from Cornell University. Her research focuses on examining how African governments can enable effective AI and data governance, investigating the impact of data work in the Global South, and analyzing datafication and algorithmic marginalization in Africa.
  
 At Cornell, Dr. Okolo’s dissertation research incorporated ethnographic methods to understand how frontline healthcare workers in rural India perceive and value AI. Her work also examined how explainability can be best leveraged in AI-enabled technologies deployed throughout the Global South, with a focus on healthcare. Outside of her dissertation focus, Dr. Okolo also conducted research examining the effective adoption and successful implementation of AI in Africa, COVID-19 misinformation spread on social networks within African communities, and the impact of generative AI within Africa.
 
