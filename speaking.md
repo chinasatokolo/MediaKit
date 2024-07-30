@@ -5,7 +5,9 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Invited Talks 
-* **July 2024:** Design Justice AI Global Humanities Institute — _Pretoria, South Africa_
+* **July 2024:** [Deep Learning IndabaX Uganda](https://indabaxug.github.io ) — _Virtual_
+* **July 2024:** [SSRC Workshop on “Drilling Down to the Data: Navigating Data Politics at the Heart of AI Policy](https://www.ssrc.org/programs/data-fluencies/2024-data-fluencies-research-workshop-drilling-down-to-the-data-navigating-data-politics-at-the-heart-of-ai-policy/) — _Brooklyn, NY_
+* **July 2024:** [Design Justice AI Global Humanities Institute](https://www.youtube.com/watch?v=0qPi4s5uMC4) — _Pretoria, South Africa_
 * **June 2024:** University of Johannesburg "Artificial Intelligence, Elections, and the Future of Democracy and Leadership: Global Experiences and Directions" — _Virtual_
 * **June 2024:** “Building a Just AI Ecosystem in Africa” Just AI Conference  — _Cape Town, South Africa_
 * **June 2024:** Global Digital Development Forum — _Washington, D.C._  
@@ -84,6 +86,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Panels
+* **July 2024:** [Salesforce Global AI Leadership Summit](https://events.eurasiagroup.net/event/ai-leadership-summit-2024/summary) — _New York, NY_ 
 * **April 2024:** [Stanford HAI AI+Policy Symposium: A Global Stocktaking](https://hai.stanford.edu/events/aipolicy-symposium-global-stocktaking) — _Stanford, CA_
 * **April 2024:** CRPE Think Forward AI Learning Forum, Anchoring AI in Policy and Politics of Change Session — _Albuquerque, NM_
 * **February 2024:** [Digital & AI: The Power of New Technology in Africa Panel at the Harvard Africa Health Conference](https://www.hsph.harvard.edu/africa-health-conference/agenda/) ([Recording](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aaf933a8-66ea-4e9a-a626-b11800e86ec2)) — _Cambridge, MA_
