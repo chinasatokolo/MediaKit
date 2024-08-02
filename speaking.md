@@ -62,7 +62,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **June 2024:** [“World leaders discuss AI as China’s digital influence in Latin America grows”](https://www.voanews.com/a/world-leaders-discuss-ai-as-china-s-digital-influence-in-latin-america-grows-/7656592.html) in Voice of America
 * **June 2024:** [“A little-known AI startup is behind Nigeria’s first government-backed LLM”](https://restofworld.org/2024/nigeria-awarri-ai-startup-llm/) in Rest of World
 * **June 2024:** [“Once a Red Line, Connecticut Reps Press for Regulating Tech Sector”](https://ctexaminer.com/2024/06/03/once-a-red-line-connecticut-reps-press-for-regulating-tech-sector/) in CT Examiner
-* **May 2024:** [“AI becomes latest frontier in China-US race for Africa”](https://www.voanews.com/a/ai-becomes-latest-frontier-in-china-us-race-for-africa/7605069.html) in Voice of Africa 
+* **May 2024:** [“AI becomes latest frontier in China-US race for Africa”](https://www.voanews.com/a/ai-becomes-latest-frontier-in-china-us-race-for-africa/7605069.html) in Voice of America - Africa 
 * **April 2024:** [“Is this AI? See if you can spot the technology in your everyday life”](https://www.washingtonpost.com/technology/interactive/2024/what-is-ai/) in The Washington Post 
 * **March 2024:** [“Africa’s push to regulate AI starts now”](https://www.technologyreview.com/2024/03/15/1089844/africa-ai-artificial-intelligence-regulation-au-policy/) in MIT Technology Review 
 * **January 2024:** [“The dangers of AI in global development”](https://www.devex.com/news/the-dangers-of-ai-in-global-development-106798) in Devex 
