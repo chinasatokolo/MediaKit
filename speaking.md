@@ -42,7 +42,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **December 2019:** [Women in AI Ignite Session](https://womeninaiigniteatneurips.splashthat.com/), NeurIPS — _Vancouver, BC_
 
 
-## Academic Guest Lectures and Seminars
+## Academic & Industry Guest Lectures and Seminars
 * **May 2024:** AI Research Group Seminar, Georgia Tech School of Public Policy
 * **March 2024:** Global AI Governance (SEST 6735), Georgetown University
 * **March 2024:** [University of Maryland Values-Centered AI Seminar](https://talks.cs.umd.edu/talks/3730) — University of Maryland
