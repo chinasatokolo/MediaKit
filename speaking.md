@@ -10,7 +10,6 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **July 2024:** [Design Justice AI Global Humanities Institute](https://www.youtube.com/watch?v=0qPi4s5uMC4) — _Pretoria, South Africa_
 * **June 2024:** University of Johannesburg "Artificial Intelligence, Elections, and the Future of Democracy and Leadership: Global Experiences and Directions" — _Virtual_
 * **June 2024:** “Building a Just AI Ecosystem in Africa” Just AI Conference  — _Cape Town, South Africa_
-* **June 2024:** Global Digital Development Forum — _Washington, D.C._  
 * **June 2024:** FII PRIORITY Summit Rio de Janeiro Conclave: Accelerating Responsible AI in Emerging Markets — _Rio de Janeiro, Brazil_
 * **May 2024:** "An African Perspective on AI Governance" Roundtable, Carnegie Endowment for International Peace — _Washington, D.C._
 * **May 2024:** Keynote in the AI, Digital & Data Solutions for Health Session at UNDP’s HIV and Health Community of Practice Meeting  — _Virtual/Istanbul, Turkey_
