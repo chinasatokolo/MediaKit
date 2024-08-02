@@ -44,13 +44,13 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Academic Guest Lectures and Seminars
-* **May 2024:** AI Research Group Seminar, Georgia Tech School of Public Policy — _Remote_
-* **March 2024:** The Global Governance of AI, Georgetown University
-* **March 2024:** [University of Maryland Values-Centered AI Seminar](https://talks.cs.umd.edu/talks/3730) — _College Park, MD_
-* **February 2024:** [University of Florida Center for African Studies Seminar Series](https://africa.ufl.edu/calendar/) — _Gainesville, FL_
-* **February 2024:** [UT Austin Institute for Urban Policy Research & Analysis (IUPRA) Seminar Series on Race, Ethnicity, and Public Policy](https://liberalarts.utexas.edu/iupra/events/globalizing-perspectives-on-ai-governance-africa-s-role-in-international-ai-cooperation) — _Austin, TX_
+* **May 2024:** AI Research Group Seminar, Georgia Tech School of Public Policy
+* **March 2024:** Global AI Governance (SEST 6735), Georgetown University
+* **March 2024:** [University of Maryland Values-Centered AI Seminar](https://talks.cs.umd.edu/talks/3730) — University of Maryland
+* **February 2024:** [University of Florida Center for African Studies Seminar Series](https://africa.ufl.edu/calendar/) — University of Florida
+* **February 2024:** [UT Austin Institute for Urban Policy Research & Analysis (IUPRA) Seminar Series on Race, Ethnicity, and Public Policy](https://liberalarts.utexas.edu/iupra/events/globalizing-perspectives-on-ai-governance-africa-s-role-in-international-ai-cooperation) — UT Austin 
 * **October 2023:** Georgetown Hoyalytics Seminar, Georgetown University
-* **September 2023:** [Pomona College Computer Science Colloquium](https://www.pomona.edu/academics/departments/computer-science/colloquium)
+* **September 2023:** [Pomona College Computer Science Colloquium](https://www.pomona.edu/academics/departments/computer-science/colloquium), Pomona College
 * **October 2022:** Change Seminar, University of Washington 
 * **July 2022:** Microsoft Research Technology & Empowerment (TEM) Seminar, Microsoft Research India
 * **July 2022:** AI for Social Good Group Seminar, Google Research India
