@@ -22,7 +22,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **February 2024:** [German Federal Foreign Office](https://www.datainnovationlab.de) Data Innovation Lab Webinar — _Virtual_
 * **February 2024:** [Forum for Cooperation on AI (FCAI) Roundtable on AI Development and Inclusion of the Global South](https://www.brookings.edu/projects/the-forum-for-cooperation-on-artificial-intelligence/) — _Virtual_
 * **January 2024:** [World Environmental Education Congress (WEEC '24)](https://www.weec2024.org) — _Abu Dhabi, UAE_
-* **December 2023:** [DZGENAI'23](https://dzgenai.com/), Algeria AI — _Beni Abbes, Algeria_
+* **December 2023:** [DZGENAI'23](https://dzgenai.com/), Algeria AI — _Béni Abbès, Algeria_
 * **December 2023:** [AI for Africa Conference](https://www.aiforafrica.org/aifa23), in conjunction with the African Startup Conference — _Algiers, Algeria_
 * **December 2023:** [Policymaking for AI & Web3: Advancements in Global AI Policy](https://gettingplurality.org/ai-regulator-workshop-series/), Getting Plurality Research Network (Harvard University Allen Lab for Democracy Renovation and MIT Connection Science) — _Virtual_
 * **November 2023:** [The Future of AI Governance Webinar](https://www.eventbrite.co.uk/e/the-future-of-ai-governance-tickets-756217977327), EquiAI Initiative at the University of Durham — _Virtual_
