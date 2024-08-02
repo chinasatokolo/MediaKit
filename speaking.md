@@ -21,26 +21,26 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **March 2024:** [CEPS Ideas Lab Plenary Session on the Future Governance of AI](https://www.ceps.eu/ceps-ideas-lab/) — _Brussels, Belgium_
 * **February 2024:** [German Federal Foreign Office](https://www.datainnovationlab.de) Data Innovation Lab Webinar — _Virtual_
 * **February 2024:** [Forum for Cooperation on AI (FCAI) Roundtable on AI Development and Inclusion of the Global South](https://www.brookings.edu/projects/the-forum-for-cooperation-on-artificial-intelligence/) — _Virtual_
-* **January 2024:** [World Environmental Education Congress (WEEC '24)](https://www.weec2024.org)
-* **December 2023:** [DZGENAI'23](https://dzgenai.com/), Algeria AI
-* **December 2023:** [AI for Africa Conference](https://www.aiforafrica.org/aifa23), in conjunction with the African Startup Conference
-* **December 2023:** [Policymaking for AI & Web3: Advancements in Global AI Policy](https://gettingplurality.org/ai-regulator-workshop-series/), Getting Plurality Research Network (Harvard University Allen Lab for Democracy Renovation and MIT Connection Science)
-* **November 2023:** [The Future of AI Governance Webinar](https://www.eventbrite.co.uk/e/the-future-of-ai-governance-tickets-756217977327), EquiAI Initiative at the University of Durham
-* **October 2023:** [AI + Society Forum](https://www.aisocietyforum.net/programme), Wellcome Collection 
-* **August 2023:** [Yale Digital Humanities Lab Seminar Series](https://library.yale.edu/event/ai-explainability-global-south-0), Yale University
-* **May 2023:** Stanford Management Science and Engineering (MS&E) [Rising Stars Workshop](https://msandedei.stanford.edu/events/rising-stars), Stanford University
-* **April 2023:** [Many Worlds of AI Conference](https://www.desirableai.com/many-worlds), University of Cambridge 
-* **April 2023:** [MIDAS Future Leaders Summit](https://midas.umich.edu/future-leaders-summit-2023/#attendees), University of Michigan 
-* **March 2023:** [Microsoft Africa Research Institute (MARI) Seminar](https://www.microsoft.com/en-us/research/group/microsoft-africa-research-institute-mari/seminars/) 
-* **February 2023:** [CSRAI Young Achievers Symposium](https://csrai.psu.edu/news-events/events/chinasa-okolo), Penn State 
-* **August 2022:** [AI4PAN Artificial Intelligence for Pandemics Seminar Series](https://smp.uq.edu.au/event/session/12597), University of Queensland
-* **June 2021:** Science Research Mentoring Program (SRMP), American Museum of Natural History
+* **January 2024:** [World Environmental Education Congress (WEEC '24)](https://www.weec2024.org) — _Abu Dhabi, UAE_
+* **December 2023:** [DZGENAI'23](https://dzgenai.com/), Algeria AI — _Beni Abbes, Algeria_
+* **December 2023:** [AI for Africa Conference](https://www.aiforafrica.org/aifa23), in conjunction with the African Startup Conference — _Algiers, Algeria_
+* **December 2023:** [Policymaking for AI & Web3: Advancements in Global AI Policy](https://gettingplurality.org/ai-regulator-workshop-series/), Getting Plurality Research Network (Harvard University Allen Lab for Democracy Renovation and MIT Connection Science) — _Virtual_
+* **November 2023:** [The Future of AI Governance Webinar](https://www.eventbrite.co.uk/e/the-future-of-ai-governance-tickets-756217977327), EquiAI Initiative at the University of Durham — _Virtual_
+* **October 2023:** [AI + Society Forum](https://www.aisocietyforum.net/programme), Wellcome Collection — _London, UK_
+* **August 2023:** [Yale Digital Humanities Lab Seminar Series](https://library.yale.edu/event/ai-explainability-global-south-0), Yale University — _Virtual_
+* **May 2023:** Stanford Management Science and Engineering (MS&E) [Rising Stars Workshop](https://msandedei.stanford.edu/events/rising-stars), Stanford University — _Stanford, CA_
+* **April 2023:** [Many Worlds of AI Conference](https://www.desirableai.com/many-worlds), University of Cambridge — _Cambridge, UK_
+* **April 2023:** [MIDAS Future Leaders Summit](https://midas.umich.edu/future-leaders-summit-2023/#attendees), University of Michigan — _Ann Arbor, MI_ 
+* **March 2023:** [Microsoft Africa Research Institute (MARI) Seminar](https://www.microsoft.com/en-us/research/group/microsoft-africa-research-institute-mari/seminars/) — _Virtual_
+* **February 2023:** [CSRAI Young Achievers Symposium](https://csrai.psu.edu/news-events/events/chinasa-okolo), Penn State — _Virtual_
+* **August 2022:** [AI4PAN Artificial Intelligence for Pandemics Seminar Series](https://smp.uq.edu.au/event/session/12597), University of Queensland  — _Virtual_
+* **June 2021:** Science Research Mentoring Program (SRMP), American Museum of Natural History — _Virtual_
 * **May 2021:** [2nd ELLIS Workshop on Human-Centric Machine Learning](https://sites.google.com/view/hcml2021?pli=1) 
 * **May 2021:** Keynote Talk, [Practical Machine Learning for Developing Countries Workshop @ ICLR](https://pml4dc.github.io/iclr2021/)
 * **March 2021:** [Blackathon - A Virtual Hackathon for the Diaspora](https://www.youtube.com/watch?v=AeOrebln568)  
-* **November 2020:** [Data Science for Social Good Workshop](https://ds4sg.gatech.edu/speakers/), Georgia Tech 
-* **October 2020:** Spotlight Talk at the [Michigan AI Symposium: AI and Health](https://ai.engin.umich.edu/events/2020-ai-symposium/) 
-* **December 2019:** [Women in AI Ignite Session](https://womeninaiigniteatneurips.splashthat.com/), NeurIPS
+* **November 2020:** [Data Science for Social Good Workshop](https://ds4sg.gatech.edu/speakers/), Georgia Tech — _Virtual_
+* **October 2020:** Spotlight Talk at the [Michigan AI Symposium: AI and Health](https://ai.engin.umich.edu/events/2020-ai-symposium/) — _Virtual_
+* **December 2019:** [Women in AI Ignite Session](https://womeninaiigniteatneurips.splashthat.com/), NeurIPS — _Vancouver, BC_
 
 
 ## Academic Guest Lectures and Seminars
