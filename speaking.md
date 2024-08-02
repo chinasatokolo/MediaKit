@@ -90,7 +90,8 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Panels
-* **July 2024:** [Salesforce Global AI Leadership Summit](https://events.eurasiagroup.net/event/ai-leadership-summit-2024/summary) — _New York, NY_ 
+* **July 2024:** [Salesforce Global AI Leadership Summit](https://events.eurasiagroup.net/event/ai-leadership-summit-2024/summary) — _New York, NY_
+* **June 2024:** ["Where does Society Stand on Responsible AI?"](https://youtu.be/LNf8gSsQpm4?feature=shared) Panel at the Global Digital Development Forum — _Washington, D.C._  
 * **April 2024:** [Stanford HAI AI+Policy Symposium: A Global Stocktaking](https://hai.stanford.edu/events/aipolicy-symposium-global-stocktaking) — _Stanford, CA_
 * **April 2024:** CRPE Think Forward AI Learning Forum, Anchoring AI in Policy and Politics of Change Session — _Albuquerque, NM_
 * **February 2024:** [Digital & AI: The Power of New Technology in Africa Panel at the Harvard Africa Health Conference](https://www.hsph.harvard.edu/africa-health-conference/agenda/) ([Recording](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aaf933a8-66ea-4e9a-a626-b11800e86ec2)) — _Cambridge, MA_
