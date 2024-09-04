@@ -59,6 +59,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Media Commentary
+* **August 2024:** ["The Realities of Women in Artificial Intelligence"](https://www.voaafrica.com/a/7765549.html) — _Voice of America "Our Voices"_
 * **July 2024:** [“When A.I. Fails the Language Test, Who Is Left Out of the Conversation?”](https://www.nytimes.com/2024/07/26/technology/ai-language-gap.html) in the New York Times
 * **June 2024:** [“World leaders discuss AI as China’s digital influence in Latin America grows”](https://www.voanews.com/a/world-leaders-discuss-ai-as-china-s-digital-influence-in-latin-america-grows-/7656592.html) in Voice of America
 * **June 2024:** [“A little-known AI startup is behind Nigeria’s first government-backed LLM”](https://restofworld.org/2024/nigeria-awarri-ai-startup-llm/) in Rest of World
@@ -75,8 +76,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **August 2020:** [“Is There a Right to ‘Facial Anonymity’?”](https://thecrimereport.org/2020/08/03/is-there-a-right-to-facial-anonymity/) in The Crime Report 
 
 
-## Media Commentary & Research Features
-* **August 2024:** ["The Realities of Women in Artificial Intelligence"](https://www.voaafrica.com/a/7765549.html) — _Voice of America "Our Voices"_
+## Personal & Research Media Features
 * **May 2024:** [“Women in AI: Chinasa T. Okolo researches AI’s impact on the Global South”](https://techcrunch.com/2024/05/24/women-in-ai-chinasa-t-okolo-researches-ais-impact-on-the-global-south/?) in TechCrunch
 * **May 2022:** [“Global labor chains of the western AI”](https://netzpolitik.org/2022/series-on-digital-colonialism-global-labor-chains-of-the-western-ai/) in Netzpolitik
 * **April 2022:** [“This is why the developing world is far behind – and that’s a problem for all of us”](https://www.weforum.org/agenda/2022/04/developing-countries-are-being-left-behind-in-the-ai-race-and-that-s-a-problem-for-all-of-us/) in World Economic Forum 
