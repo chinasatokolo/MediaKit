@@ -44,6 +44,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Academic & Industry Guest Lectures and Seminars
+* **October 2024:** Michigan AI Seminar, University of Michigan
 * **May 2024:** AI Research Group Seminar, Georgia Tech School of Public Policy
 * **March 2024:** Global AI Governance (SEST 6735), Georgetown University
 * **March 2024:** [University of Maryland Values-Centered AI Seminar](https://talks.cs.umd.edu/talks/3730) — University of Maryland
