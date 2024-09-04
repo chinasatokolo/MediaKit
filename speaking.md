@@ -5,6 +5,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Invited Talks 
+* **September 2024:** "Examining the Datafication of African Consumers through Digital Microlending" at the [Data Power](https://datapowerconference.org/data-power-2024/programme/) Conference — _Remote_
 * **July 2024:** [Deep Learning IndabaX Uganda](https://indabaxug.github.io) — _Virtual_
 * **July 2024:** [SSRC Workshop on “Drilling Down to the Data: Navigating Data Politics at the Heart of AI Policy](https://www.ssrc.org/programs/data-fluencies/2024-data-fluencies-research-workshop-drilling-down-to-the-data-navigating-data-politics-at-the-heart-of-ai-policy/) — _Brooklyn, NY_
 * **July 2024:** [Design Justice AI Global Humanities Institute](https://www.youtube.com/watch?v=0qPi4s5uMC4) — _Pretoria, South Africa_
@@ -91,6 +92,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Panels
+* **September 2024:** ["Empowering African Voices in AI: Data, Models, and Innovation"](https://datasciencelawlab.africa/deep-learning-indaba-workshop-2024/) workshop at Deep Learning Indaba — _Dakar, Senegal_
 * **July 2024:** [Salesforce Global AI Leadership Summit](https://events.eurasiagroup.net/event/ai-leadership-summit-2024/summary) — _New York, NY_
 * **June 2024:** [The Economics of AI in Africa](https://www.youtube.com/watch?v=XYdp_vjCNb4) with HoaQ Club — _Remote_ 
 * **June 2024:** ["Where does Society Stand on Responsible AI?"](https://youtu.be/LNf8gSsQpm4?feature=shared) Panel at the Global Digital Development Forum — _Washington, D.C._  
