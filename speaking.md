@@ -5,7 +5,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Invited Talks 
-* **September 2024:** "Examining the Datafication of African Consumers through Digital Microlending" at the [Data Power](https://datapowerconference.org/data-power-2024/programme/) Conference — _Remote_
+* **September 2024:** [Data Power Conference](https://datapowerconference.org/data-power-2024/programme/) — _Remote_
 * **July 2024:** [Deep Learning IndabaX Uganda](https://indabaxug.github.io) — _Virtual_
 * **July 2024:** [SSRC Workshop on “Drilling Down to the Data: Navigating Data Politics at the Heart of AI Policy](https://www.ssrc.org/programs/data-fluencies/2024-data-fluencies-research-workshop-drilling-down-to-the-data-navigating-data-politics-at-the-heart-of-ai-policy/) — _Brooklyn, NY_
 * **July 2024:** [Design Justice AI Global Humanities Institute](https://www.youtube.com/watch?v=0qPi4s5uMC4) — _Pretoria, South Africa_
