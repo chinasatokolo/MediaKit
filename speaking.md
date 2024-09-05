@@ -12,7 +12,6 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **June 2024:** University of Johannesburg "Artificial Intelligence, Elections, and the Future of Democracy and Leadership: Global Experiences and Directions" — _Virtual_
 * **June 2024:** “Building a Just AI Ecosystem in Africa” [Just AI Conference](https://researchictafrica.net/2024/02/02/call-for-papers-building-a-just-ai-ecosystem-in-africa/) — _Cape Town, South Africa_
 * **June 2024:** FII PRIORITY Summit Rio de Janeiro Conclave: Accelerating Responsible AI in Emerging Markets — _Rio de Janeiro, Brazil_
-* **May 2024:** "An African Perspective on AI Governance" Roundtable, Carnegie Endowment for International Peace — _Washington, D.C._
 * **May 2024:** Keynote in the AI, Digital & Data Solutions for Health Session at UNDP’s HIV and Health Community of Practice Meeting  — _Virtual/Istanbul, Turkey_
 * **April 2024:** Mozilla Seminar: Incorporating Trustworthiness as a Grounding Principle for AI in Africa — _Virtual_
 * **April 2024:** [I-GMAP Frontiers of Prevention Conference](https://frontiersofprevention.carrd.co/#) — _Binghamton, NY_
@@ -92,11 +91,12 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **June 2019:** [Cornell Graduate School Student Spotlight](https://gradschool.cornell.edu/spotlights/student-spotlight-chinasa-okolo/) 
 
 
-## Panels
+## Panels & Roundtables
 * **September 2024:** ["Empowering African Voices in AI: Data, Models, and Innovation"](https://datasciencelawlab.africa/deep-learning-indaba-workshop-2024/) workshop at Deep Learning Indaba — _Dakar, Senegal_
 * **July 2024:** [Salesforce Global AI Leadership Summit](https://events.eurasiagroup.net/event/ai-leadership-summit-2024/summary) — _New York, NY_
 * **June 2024:** [The Economics of AI in Africa](https://www.youtube.com/watch?v=XYdp_vjCNb4) with HoaQ Club — _Remote_ 
-* **June 2024:** ["Where does Society Stand on Responsible AI?"](https://youtu.be/LNf8gSsQpm4?feature=shared) Panel at the Global Digital Development Forum — _Washington, D.C._  
+* **June 2024:** ["Where does Society Stand on Responsible AI?"](https://youtu.be/LNf8gSsQpm4?feature=shared) Panel at the Global Digital Development Forum — _Washington, D.C._
+* * **May 2024:** "An African Perspective on AI Governance" Roundtable, Carnegie Endowment for International Peace — _Washington, D.C._
 * **April 2024:** [Stanford HAI AI+Policy Symposium: A Global Stocktaking](https://hai.stanford.edu/events/aipolicy-symposium-global-stocktaking) — _Stanford, CA_
 * **April 2024:** CRPE Think Forward AI Learning Forum, Anchoring AI in Policy and Politics of Change Session — _Albuquerque, NM_
 * **February 2024:** [Digital & AI: The Power of New Technology in Africa Panel at the Harvard Africa Health Conference](https://www.hsph.harvard.edu/africa-health-conference/agenda/) ([Recording](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aaf933a8-66ea-4e9a-a626-b11800e86ec2)) — _Cambridge, MA_
