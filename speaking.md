@@ -43,6 +43,8 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Academic & Industry Guest Lectures and Seminars
+* **October 2024:** Africa Regional Seminar at Wharton’s Lauder Institute for Management and International Studies, University of Pennsylvania
+* **October 2024:** African Studies Center on Ethics of AI in Africa Symposium, University of Kansas
 * **October 2024:** Michigan AI Seminar, University of Michigan
 * **May 2024:** AI Research Group Seminar, Georgia Tech School of Public Policy
 * **March 2024:** Global AI Governance (SEST 6735), Georgetown University
