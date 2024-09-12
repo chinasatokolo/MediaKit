@@ -58,6 +58,36 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **April 2021:** Technology for Underserved Communities (INFO 6600), Cornell University
 
 
+## Panels & Roundtables
+* **September 2024:** ["The Promise and Perils of AI: Issues at Stake in the 2024 Election"](https://www.brookings.edu/events/2024-election-promise-and-perils-of-ai/) event in collaboration with The Brookings Institution and Spelman College — _Atlanta, Georgia_
+* **September 2024:** ["Empowering African Voices in AI: Data, Models, and Innovation"](https://datasciencelawlab.africa/deep-learning-indaba-workshop-2024/) workshop at Deep Learning Indaba — _Dakar, Senegal_
+* **July 2024:** [Salesforce Global AI Leadership Summit](https://events.eurasiagroup.net/event/ai-leadership-summit-2024/summary) — _New York, NY_
+* **June 2024:** [The Economics of AI in Africa](https://www.youtube.com/watch?v=XYdp_vjCNb4) with HoaQ Club — _Remote_ 
+* **June 2024:** ["Where does Society Stand on Responsible AI?"](https://youtu.be/LNf8gSsQpm4?feature=shared) Panel at the Global Digital Development Forum — _Washington, D.C._
+* * **May 2024:** "An African Perspective on AI Governance" Roundtable, Carnegie Endowment for International Peace — _Washington, D.C._
+* **April 2024:** [Stanford HAI AI+Policy Symposium: A Global Stocktaking](https://hai.stanford.edu/events/aipolicy-symposium-global-stocktaking) — _Stanford, CA_
+* **April 2024:** CRPE Think Forward AI Learning Forum, Anchoring AI in Policy and Politics of Change Session — _Albuquerque, NM_
+* **February 2024:** [Digital & AI: The Power of New Technology in Africa Panel at the Harvard Africa Health Conference](https://www.hsph.harvard.edu/africa-health-conference/agenda/) ([Recording](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aaf933a8-66ea-4e9a-a626-b11800e86ec2)) — _Cambridge, MA_
+* **February 2024:** [BEYA STEM Conference Panel on Inclusive Tech](https://s4.goeshow.com/ccgroup/beyastem/2024/full_schedule.cfm) — _Baltimore, MD_
+* **December 2023:** [AI-Powered Innovation: Exploring the Impact of Generative AI on African Startups](https://africanstartupconference.org/en), African Startup Conference
+* **November 2023:** [“AI safety beyond the UK Summit: A conversation with Secretary Michelle Donelan”](https://www.brookings.edu/events/ai-safety-beyond-the-uk-summit-secretary-donelan/) 
+* **October 2023:** [“Why the Global South has a stake in dialogues on AI governance”](https://www.brookings.edu/events/why-the-global-south-has-a-stake-in-dialogues-on-ai-governance) 
+* **March 2022:** URMC Graduate School & Research Panel
+* **October 2021:** AI in Society Workshop, Cornell University
+* **May 2021:** [Stockholm Internet Forum](https://stockholminternetforum.se/live-stream/)
+* **March 2021:** Grad Student Workshop Series, Cornell Undergraduate Research Board (CURB)
+* **February 2021:** ColorStack Sprout Research/Academia Panel
+* **February 2021:** "Industry vs. Grad School”, Black and Brown in CS @ Pomona College
+* **December 2020:** Global Black Youth Fest
+* **December 2020:** Cornell New Visions Engineering Program
+* **November 2020:** National Society of Black Engineers Post-Undergrad Panel, Johns Hopkins
+* **October 2020:** "Voices from the Field" Panel, GEM Grad Lab @ SUNY Albany
+* **September 2020:** ["How Can Ph.D. and Postdocs Pursue Entrepreneurship?"](https://youtu.be/ALekA6t67ZY), Women Entrepreneurs Cornell
+* **June 2020:** CS Rising SophoMore (CSMore) Summer Program PhD Panel
+* **October 2019:** Entrepreneurship & Technology Panel, Cornell African Development Conference 
+* **August 2019:** ["Mastering Your Transition Into and Progression Through Graduate School"](https://gradschool.cornell.edu/diversity-inclusion/signature-initiatives/summer-success-symposium/2019-summer-success-symposium-bios/), Cornell Summer Success Symposium  
+
+
 ## Media Commentary
 * **August 2024:** ["The Realities of Women in Artificial Intelligence"](https://www.voaafrica.com/a/7765549.html) — _Voice of America "Our Voices"_
 * **July 2024:** [“When A.I. Fails the Language Test, Who Is Left Out of the Conversation?”](https://www.nytimes.com/2024/07/26/technology/ai-language-gap.html) in the New York Times
@@ -89,36 +119,6 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **March 2021:** [“Underpaid Workers Are Being Forced to Train Biased AI on Mechanical Turk”](https://www.vice.com/en/article/88apnv/underpaid-workers-are-being-forced-to-train-biased-ai-on-mechanical-turk) in VICE 
 * **February 2021:** [“The AI industry is built on geographic and social inequality, research shows”](https://venturebeat.com/business/the-ai-industry-is-built-on-geographic-and-social-inequality-research-shows/) by VentureBeat 
 * **June 2019:** [Cornell Graduate School Student Spotlight](https://gradschool.cornell.edu/spotlights/student-spotlight-chinasa-okolo/) 
-
-
-## Panels & Roundtables
-* **September 2024:** ["Empowering African Voices in AI: Data, Models, and Innovation"](https://datasciencelawlab.africa/deep-learning-indaba-workshop-2024/) workshop at Deep Learning Indaba — _Dakar, Senegal_
-* **July 2024:** [Salesforce Global AI Leadership Summit](https://events.eurasiagroup.net/event/ai-leadership-summit-2024/summary) — _New York, NY_
-* **June 2024:** [The Economics of AI in Africa](https://www.youtube.com/watch?v=XYdp_vjCNb4) with HoaQ Club — _Remote_ 
-* **June 2024:** ["Where does Society Stand on Responsible AI?"](https://youtu.be/LNf8gSsQpm4?feature=shared) Panel at the Global Digital Development Forum — _Washington, D.C._
-* * **May 2024:** "An African Perspective on AI Governance" Roundtable, Carnegie Endowment for International Peace — _Washington, D.C._
-* **April 2024:** [Stanford HAI AI+Policy Symposium: A Global Stocktaking](https://hai.stanford.edu/events/aipolicy-symposium-global-stocktaking) — _Stanford, CA_
-* **April 2024:** CRPE Think Forward AI Learning Forum, Anchoring AI in Policy and Politics of Change Session — _Albuquerque, NM_
-* **February 2024:** [Digital & AI: The Power of New Technology in Africa Panel at the Harvard Africa Health Conference](https://www.hsph.harvard.edu/africa-health-conference/agenda/) ([Recording](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aaf933a8-66ea-4e9a-a626-b11800e86ec2)) — _Cambridge, MA_
-* **February 2024:** [BEYA STEM Conference Panel on Inclusive Tech](https://s4.goeshow.com/ccgroup/beyastem/2024/full_schedule.cfm) — _Baltimore, MD_
-* **December 2023:** [AI-Powered Innovation: Exploring the Impact of Generative AI on African Startups](https://africanstartupconference.org/en), African Startup Conference
-* **November 2023:** [“AI safety beyond the UK Summit: A conversation with Secretary Michelle Donelan”](https://www.brookings.edu/events/ai-safety-beyond-the-uk-summit-secretary-donelan/) 
-* **October 2023:** [“Why the Global South has a stake in dialogues on AI governance”](https://www.brookings.edu/events/why-the-global-south-has-a-stake-in-dialogues-on-ai-governance) 
-* **March 2022:** URMC Graduate School & Research Panel
-* **October 2021:** AI in Society Workshop, Cornell University
-* **May 2021:** [Stockholm Internet Forum](https://stockholminternetforum.se/live-stream/)
-* **March 2021:** Grad Student Workshop Series, Cornell Undergraduate Research Board (CURB)
-* **February 2021:** ColorStack Sprout Research/Academia Panel
-* **February 2021:** "Industry vs. Grad School”, Black and Brown in CS @ Pomona College
-* **December 2020:** Global Black Youth Fest
-* **December 2020:** Cornell New Visions Engineering Program
-* **November 2020:** National Society of Black Engineers Post-Undergrad Panel, Johns Hopkins
-* **October 2020:** "Voices from the Field" Panel, GEM Grad Lab @ SUNY Albany
-* **September 2020:** ["How Can Ph.D. and Postdocs Pursue Entrepreneurship?"](https://youtu.be/ALekA6t67ZY), Women Entrepreneurs Cornell
-* **June 2020:** CS Rising SophoMore (CSMore) Summer Program PhD Panel
-* **October 2019:** Entrepreneurship & Technology Panel, Cornell African Development Conference 
-* **August 2019:** ["Mastering Your Transition Into and Progression Through Graduate School"](https://gradschool.cornell.edu/diversity-inclusion/signature-initiatives/summer-success-symposium/2019-summer-success-symposium-bios/), Cornell Summer Success Symposium  
-
 
 
 ## Interviews & Podcasts
