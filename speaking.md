@@ -61,7 +61,8 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Panels & Roundtables
-* **September 2024:** ["The Promise and Perils of AI: Issues at Stake in the 2024 Election"](https://www.brookings.edu/events/2024-election-promise-and-perils-of-ai/) event in collaboration with The Brookings Institution and Spelman College — _Atlanta, Georgia_
+* **September 2024:** ["The Transformative Power of AI"](https://time.com/7021119/time100-impact-dinner-ai-transformative-potential-kurzweil-okolo-kelly-kumar/) panel at the TIME100 Impact Dinner: Leaders Shaping the Future of AI — _San Francisco, CA_
+* **September 2024:** ["The Promise and Perils of AI: Issues at Stake in the 2024 Election"](https://www.brookings.edu/events/2024-election-promise-and-perils-of-ai/) event in collaboration with The Brookings Institution and Spelman College — _Atlanta, GA
 * **September 2024:** ["Empowering African Voices in AI: Data, Models, and Innovation"](https://datasciencelawlab.africa/deep-learning-indaba-workshop-2024/) workshop at Deep Learning Indaba — _Dakar, Senegal_
 * **July 2024:** [Salesforce Global AI Leadership Summit](https://events.eurasiagroup.net/event/ai-leadership-summit-2024/summary) — _New York, NY_
 * **June 2024:** [The Economics of AI in Africa](https://www.youtube.com/watch?v=XYdp_vjCNb4) with HoaQ Club — _Remote_ 
