@@ -5,6 +5,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Invited Talks 
+* **October 2024:** Georgia Tech [Summit on Responsible Computing, AI, and Society](https://rcais.github.io/) — _Atlanta, GA_
 * **September 2024:** [Data Power Conference](https://datapowerconference.org/data-power-2024/programme/) — _Remote_
 * **July 2024:** [Deep Learning IndabaX Uganda](https://indabaxug.github.io) — _Virtual_
 * **July 2024:** [SSRC Workshop on “Drilling Down to the Data: Navigating Data Politics at the Heart of AI Policy](https://www.ssrc.org/programs/data-fluencies/2024-data-fluencies-research-workshop-drilling-down-to-the-data-navigating-data-politics-at-the-heart-of-ai-policy/) — _Brooklyn, NY_
