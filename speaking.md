@@ -136,6 +136,8 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Interviews & Podcasts
+* **October 2024:** [Charting an AI Roadmap for the Emerging World](https://www.youtube.com/watch?app=desktop&v=itGA6F2l4_s), Siliconsciousness 
+* **April 2024:** [The AI Revolution for Health in Africa](https://healthtechafrica.org/resources/podcasts/ai-revolution-health-africa), Health Tech Africa 
 * **September 2023:** [Equitable AI Development in the Global South with Chinasa Okolo ’18](https://www.pomona.edu/sagecast), Pomona College Sagecast
 * **August 2022:** [How to Craft Your Pitch](https://open.spotify.com/episode/0sNaoCsdqNFGbntyFKFdS7), Startup School by Ajim Capital 
 * **January 2022:** [#28: Talking AI, AI ethics, and microinvesting ft. Chinasa T. Okolo](https://www.listennotes.com/podcasts/the-black/28-talking-ai-ai-ethics-and-R8L1hwbpiDH/), The Black Enterprise Network
