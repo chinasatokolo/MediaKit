@@ -119,7 +119,6 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 ## Personal & Research Media Features
 * **September 2024:** [“TIME Magazine Names Chinasa T. Okolo ’18 One of 100 Most Influential People in AI”](https://www.pomona.edu/news/2024/09/16-time-magazine-names-chinasa-t-okolo-18-one-100-most-influential-people-ai) by Pomona College
-* **September 2024:** [“Focus on Africa Podcast”](https://www.bbc.co.uk/sounds/play/p0jq52jk?partner=uk.co.bbc&origin=share-mobile) in BBC
 * **September 2024:** [“The 100 Most Influential People in AI 2024”](https://time.com/7012894/chinasa-t-okolo/) in TIME
 * **May 2024:** [“Women in AI: Chinasa T. Okolo researches AI’s impact on the Global South”](https://techcrunch.com/2024/05/24/women-in-ai-chinasa-t-okolo-researches-ais-impact-on-the-global-south/?) in TechCrunch
 * **May 2022:** [“Global labor chains of the western AI”](https://netzpolitik.org/2022/series-on-digital-colonialism-global-labor-chains-of-the-western-ai/) in Netzpolitik
@@ -136,7 +135,8 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Interviews & Podcasts
-* **October 2024:** [Charting an AI Roadmap for the Emerging World](https://www.youtube.com/watch?app=desktop&v=itGA6F2l4_s), Siliconsciousness 
+* **October 2024:** [Charting an AI Roadmap for the Emerging World](https://www.youtube.com/watch?app=desktop&v=itGA6F2l4_s), Siliconsciousness
+* **September 2024:** [“Focus on Africa Podcast”](https://www.bbc.co.uk/sounds/play/p0jq52jk?partner=uk.co.bbc&origin=share-mobile), BBC
 * **April 2024:** [The AI Revolution for Health in Africa](https://healthtechafrica.org/resources/podcasts/ai-revolution-health-africa), Health Tech Africa 
 * **September 2023:** [Equitable AI Development in the Global South with Chinasa Okolo ’18](https://www.pomona.edu/sagecast), Pomona College Sagecast
 * **August 2022:** [How to Craft Your Pitch](https://open.spotify.com/episode/0sNaoCsdqNFGbntyFKFdS7), Startup School by Ajim Capital 
