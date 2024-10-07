@@ -5,6 +5,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatoko
 
 ## Briefings, Roundtables, and Summits
 
+* **October 2024:** Global Action Forum: Setting a Global Majority Agenda for AI Innovation — _Washington, D.C._
 * **June 2024:** FII PRIORITY Summit Rio de Janeiro Conclave: Accelerating Responsible AI in Emerging Markets — _Rio de Janeiro, Brazil_
 * **May 2024:** "An African Perspective on AI Governance" Roundtable, Carnegie Endowment for International Peace — _Washington, D.C._
 * **April 2024:** [Stanford HAI AI+Policy Symposium: A Global Stocktaking](https://hai.stanford.edu/aipolicy-symposium-global-stocktaking-agenda) — _Stanford, CA_
