@@ -62,6 +62,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Panels & Roundtables
+* **October 2024:** "AI Governance: Navigating the Ethics and Regulation of Emerging Technologies in Media & Communication" panel at Johns Hopkins — _Washington, D.C._
 * **October 2024:** MacArthur Foundation "Technology, Media, and Democracy" Panel — _Remote_
 * **October 2024:** [American Women for International Understanding (AWIU) COIR Symposium](https://awiu.org/coir-2024/2024-coir-symposium-program/) — _Washington, D.C._
 * **October 2024:** [Fundraising.AI Summit](https://app.experiencewelcome.com/events/vgurAv) — _Remote_
