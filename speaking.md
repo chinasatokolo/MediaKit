@@ -41,6 +41,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **May 2021:** Keynote Talk, [Practical Machine Learning for Developing Countries Workshop @ ICLR](https://pml4dc.github.io/iclr2021/)
 * **March 2021:** [Blackathon - A Virtual Hackathon for the Diaspora](https://www.youtube.com/watch?v=AeOrebln568)  
 * **November 2020:** [Data Science for Social Good Workshop](https://ds4sg.gatech.edu/speakers/), Georgia Tech — _Virtual_
+* **March 2020:** Speaker at the Empowerment Month Roundtable Discussion hosted by Cornell Graduate Women in Science & 500 Women Scientists
 * **October 2020:** Spotlight Talk at the [Michigan AI Symposium: AI and Health](https://ai.engin.umich.edu/events/2020-ai-symposium/) — _Virtual_
 * **December 2019:** [Women in AI Ignite Session](https://womeninaiigniteatneurips.splashthat.com/), NeurIPS — _Vancouver, BC_
 
@@ -88,11 +89,13 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **October 2021:** AI in Society Workshop, Cornell University
 * **May 2021:** [Stockholm Internet Forum](https://stockholminternetforum.se/live-stream/)
 * **March 2021:** Grad Student Workshop Series, Cornell Undergraduate Research Board (CURB)
+* **February 2021:** [“Navigating Venture Capital Investments: The Good, The Bad, and The Ugly”](https://www.youtube.com/watch?app=desktop&v=8sh0FTxQUNA), Doing Good Work in Africa (DOWA)
 * **February 2021:** ColorStack Sprout Research/Academia Panel
 * **February 2021:** "Industry vs. Grad School”, Black and Brown in CS @ Pomona College
 * **December 2020:** Global Black Youth Fest
 * **December 2020:** Cornell New Visions Engineering Program
 * **November 2020:** National Society of Black Engineers Post-Undergrad Panel, Johns Hopkins
+* **November 2020:** [“Black Entrepreneurship: Overcoming Adversity and Staying Focused”](https://ecornell.cornell.edu/keynotes/overview/K112420/), eCornell
 * **October 2020:** "Voices from the Field" Panel, GEM Grad Lab @ SUNY Albany
 * **September 2020:** ["How Can Ph.D. and Postdocs Pursue Entrepreneurship?"](https://youtu.be/ALekA6t67ZY), Women Entrepreneurs Cornell
 * **June 2020:** CS Rising SophoMore (CSMore) Summer Program PhD Panel
@@ -150,12 +153,6 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **October 2018:** [Kauffman Scholars Program Impact](https://youtu.be/mZ2d1nyE878), Kauffman Foundation 
 * **July 2014:** [2014 Graduate Highlight: Chinasa T. Okolo](https://youtu.be/ZfDiILkf7To), Kansas City Public Schools 
 
-
-## General Events
-* **November 2023:** Moderator for “[AI safety beyond the UK Summit: A conversation with Secretary Michelle Donelan”](https://www.brookings.edu/events/ai-safety-beyond-the-uk-summit-secretary-donelan/), The Brookings Institution 
-* **February 2021:** Moderator for [“Navigating Venture Capital Investments: The Good, The Bad, and The Ugly”](https://www.youtube.com/watch?app=desktop&v=8sh0FTxQUNA), Doing Good Work in Africa (DOWA)
-* **November 2020:** Moderator for [“Black Entrepreneurship: Overcoming Adversity and Staying Focused”](https://ecornell.cornell.edu/keynotes/overview/K112420/), eCornell
-* **March 2020:** Speaker at the Empowerment Month Roundtable Discussion hosted by Cornell Graduate Women in Science & 500 Women Scientists
 
 
 
