@@ -142,6 +142,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 ## Interviews & Podcasts
 * **October 2024:** [Charting an AI Roadmap for the Emerging World](https://www.youtube.com/watch?app=desktop&v=itGA6F2l4_s), Siliconsciousness
+* **September 2024:** [How Infrastructure, Education can Boost Africa’s Adoption of AI, Development](https://www.africainterviews.com/how-infrastructure-education-can-help-africas-adoption-of-ai-development-dr-chinasa-okolo/), Africa Interviews
 * **September 2024:** [“Focus on Africa Podcast”](https://www.bbc.co.uk/sounds/play/p0jq52jk?partner=uk.co.bbc&origin=share-mobile), BBC
 * **April 2024:** [The AI Revolution for Health in Africa](https://healthtechafrica.org/resources/podcasts/ai-revolution-health-africa), Health Tech Africa 
 * **September 2023:** [Equitable AI Development in the Global South with Chinasa Okolo ’18](https://www.pomona.edu/sagecast), Pomona College Sagecast
