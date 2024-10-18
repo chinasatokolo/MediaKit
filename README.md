@@ -10,7 +10,7 @@ gsmedia@brookings.edu \
 +1 (202) 770-6520
 
 ## Biography & Headshots
-My approved biography is [here](https://github.com/chinasatokolo/MediaKit/blob/main/biography-details.md), and approved headshots are [here](https://github.com/chinasatokolo/MediaKit/tree/main/images/headshots).
+My approved biography is [here](https://github.com/chinasatokolo/MediaKit/blob/main/biography-details.md), and approved headshots are [here](https://drive.google.com/drive/folders/1ycomAbWO8v8cx2Ydv0O8sw-78uP1ZDH-?usp=sharing).
 
 ## Speaking Engagements
 Please refer to my [speaker rider](https://github.com/chinasatokolo/MediaKit/blob/main/speaker-rider.md) for the best guidance on booking me for panels, workshops, conferences, and webinar speaking engagements.
