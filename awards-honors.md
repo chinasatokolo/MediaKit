@@ -3,6 +3,7 @@ A list of awards and honors received by Dr. Chinasa T. Okolo.
 
 ## Awards
 * **September 2024:** TIME100 Most Influential People in AI
+* **May 2024:** Delegate, World Bank Group Youth Summit
 * **April 2024:** MIPAD Global Top 100 Futurists and Innovators
 * **July 2023:** Trailblazers in Engineering, Purdue University
 * **May 2023:** Rising Stars in Management Science & Engineering, Stanford University
@@ -17,9 +18,9 @@ A list of awards and honors received by Dr. Chinasa T. Okolo.
 * **August 2018:** LEAP Fellow, Diversifying LEAdership in the Professoriate Alliance  
 * **May 2018:** Bernard Charnwut Chan '88 Service Award, Pomona College 
 * **May 2018:** Bessie Reiner Dill Graduate Fellowship Award, Pomona College  
-* **May 2018:** Outstanding Senior in Leadership Award, The Claremont Colleges  
+* **May 2018:** Agnes Moreland Jackson Outstanding Senior in Leadership Award, The Claremont Colleges Office of Black Student Affairs
 * **January 2016:** EXROP Award, Howard Hughes Medical Institute 
-* **April 2015:** First Year Student Award, The Claremont Colleges
+* **April 2015:** First Year Student Award, The Claremont Colleges Office of Black Student Affairs
 
 ## Scholarships, Fellowships, & Grants 
 * **May 2023:** ICICLE Educational Fellow, National Science Foundation
@@ -29,7 +30,11 @@ A list of awards and honors received by Dr. Chinasa T. Okolo.
 * **October 2019:** Community-Engaged Student Travel Grant, Engaged Cornell  
 * **August 2019:** John Postel Scholar, North American Network Operators Group  
 * **July 2019:** UNCF Oracle Academy Fellow, Oracle Corporation
-* **April 2019:** GEM Fellowship, The National GEM Consortium  
+* **April 2019:** GEM Fellowship, The National GEM Consortium
+* **May 2014:** General Mills Health ScholarCBCF/General Mills Health Scholar, Congressional Black Caucus Foundation
+* **April 2014:** Scholar Superstar, Kansas City Public Schools
+* **March 2014:** Elks Most Valuable Scholar, Elks National Foundation
+* **April 2013:** Missouri A+ Scholar, Missouri State Board of Education
 
 
 
