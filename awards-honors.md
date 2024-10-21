@@ -21,6 +21,8 @@ A list of awards and honors received by Dr. Chinasa T. Okolo.
 * **May 2018:** Agnes Moreland Jackson Outstanding Senior in Leadership Award, The Claremont Colleges Office of Black Student Affairs
 * **January 2016:** EXROP Award, Howard Hughes Medical Institute 
 * **April 2015:** First Year Student Award, The Claremont Colleges Office of Black Student Affairs
+* **April 2014:** Scholar Superstar, Kansas City Public Schools
+* **April 2013:** Missouri A+ Scholar, Missouri State Board of Education
 
 ## Scholarships, Fellowships, & Grants 
 * **May 2023:** ICICLE Educational Fellow, National Science Foundation
@@ -32,9 +34,7 @@ A list of awards and honors received by Dr. Chinasa T. Okolo.
 * **July 2019:** UNCF Oracle Academy Fellow, Oracle Corporation
 * **April 2019:** GEM Fellowship, The National GEM Consortium
 * **May 2014:** General Mills Health ScholarCBCF/General Mills Health Scholar, Congressional Black Caucus Foundation
-* **April 2014:** Scholar Superstar, Kansas City Public Schools
 * **March 2014:** Elks Most Valuable Scholar, Elks National Foundation
-* **April 2013:** Missouri A+ Scholar, Missouri State Board of Education
 
 
 
