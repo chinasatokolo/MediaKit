@@ -2,7 +2,7 @@
 A list of awards and honors received by Dr. Chinasa T. Okolo.
 
 ## Awards
-* **September 2024:** TIME100 Most Influential People in AI
+* **September 2024:** [TIME100 Most Influential People in AI](https://time.com/7012894/chinasa-t-okolo/)
 * **May 2024:** Delegate, World Bank Group Youth Summit
 * **April 2024:** MIPAD Global Top 100 Futurists and Innovators
 * **July 2023:** Trailblazers in Engineering, Purdue University
