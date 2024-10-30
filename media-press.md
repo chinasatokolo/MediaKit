@@ -1,5 +1,5 @@
 # Media Commentary & Press
-A list of media commentary and press features from Dr. Chinasa T. Okolo. Links to recordings/event webpages/articles have been provided as available.
+A list of media commentary and press features from Dr. Chinasa T. Okolo. Links have been provided as available.
 
 _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokolo/MediaKit/blob/main/speaker-rider.md) if you are interested in booking me for an interview._
 
