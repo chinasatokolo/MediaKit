@@ -18,7 +18,7 @@ Please refer to my [speaker rider](https://github.com/chinasatokolo/MediaKit/blo
 Feel free to check out my prior [speaking engagements](https://github.com/chinasatokolo/MediaKit/blob/main/speaking.md) and [notable events](https://github.com/chinasatokolo/MediaKit/blob/main/notable-engagements.md) I have been invited to participate in.
 
 ## Interviews
-For interviews, please follow the guidelines listed [here](https://github.com/chinasatokolo/MediaKit/blob/main/interview-guide.md).
+I speak frequently to global, national, and local media. You can find my media commentary and press features [here](https://github.com/chinasatokolo/MediaKit/blob/main/media-press.md). To schedule an interview, please follow the guidelines listed [here](https://github.com/chinasatokolo/MediaKit/blob/main/interview-guide.md).
 
 
 ### Licensing
