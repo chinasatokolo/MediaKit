@@ -67,13 +67,13 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Panels & Roundtables
-* **October 2024:** "AI Governance: Navigating the Ethics and Regulation of Emerging Technologies in Media & Communication" panel, _Johns Hopkins University_
+* **October 2024:** "AI Governance: Navigating the Ethics and Regulation of Emerging Technologies in Media & Communication" Panel, _Johns Hopkins University_
 * **October 2024:** "Technology, Media, and Democracy" Panel, MacArthur Foundation
 * **October 2024:** [COIR Symposium](https://awiu.org/coir-2024/2024-coir-symposium-program/), American Women for International Understanding (AWIU)
 * **October 2024:** [Fundraising.AI Summit](https://app.experiencewelcome.com/events/vgurAv)
 * **September 2024:**  Roundtable on AI in the Global South, _Wilson Center Science and Technology Innovation Program (STIP)_ 
-* **September 2024:** "The State of AI Governance in the African Union" panel, _The Research Conference on Communications, Information and Internet Policy (TPRC_)
-* **September 2024:** ["The Transformative Power of AI"](https://time.com/7021119/time100-impact-dinner-ai-transformative-potential-kurzweil-okolo-kelly-kumar/) panel at the TIME100 Impact Dinner: Leaders Shaping the Future of AI, _TIME_
+* **September 2024:** "The State of AI Governance in the African Union" Panel, _The Research Conference on Communications, Information and Internet Policy (TPRC_)
+* **September 2024:** ["The Transformative Power of AI"](https://time.com/7021119/time100-impact-dinner-ai-transformative-potential-kurzweil-okolo-kelly-kumar/) Panel at the TIME100 Impact Dinner: Leaders Shaping the Future of AI, _TIME_
 * **September 2024:** ["The Promise and Perils of AI: Issues at Stake in the 2024 Election"](https://www.brookings.edu/events/2024-election-promise-and-perils-of-ai/), _The Brookings Institution and Spelman College_
 * **September 2024:** ["Empowering African Voices in AI: Data, Models, and Innovation"](https://datasciencelawlab.africa/deep-learning-indaba-workshop-2024/) workshop, _Deep Learning Indaba_
 * **July 2024:** [Salesforce Global AI Leadership Summit](https://events.eurasiagroup.net/event/ai-leadership-summit-2024/summary)
@@ -106,7 +106,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Interviews & Podcasts
-* **October 2024:** [Interview](https://www.youtube.com/watch?v=lJTFOZQplcc) with Channels TV
+* **October 2024:** ["Meet Nigerian-American Computer Scientist, Chinasa Okolo Named in TIME 100"](https://www.youtube.com/watch?v=lJTFOZQplcc) with Channels TV
 * **October 2024:** [Charting an AI Roadmap for the Emerging World](https://www.youtube.com/watch?app=desktop&v=itGA6F2l4_s), Siliconsciousness
 * **September 2024:** [How Infrastructure, Education can Boost Africa’s Adoption of AI, Development](https://www.africainterviews.com/how-infrastructure-education-can-help-africas-adoption-of-ai-development-dr-chinasa-okolo/), Africa Interviews
 * **September 2024:** [“Focus on Africa Podcast”](https://www.bbc.co.uk/sounds/play/p0jq52jk?partner=uk.co.bbc&origin=share-mobile), BBC
