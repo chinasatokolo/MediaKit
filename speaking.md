@@ -49,6 +49,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Academic & Industry Guest Lectures and Seminars
+* **October 2024:** "AI, Bias, and Ethics for Tech Diplomacy" Lecture, Foreign Service Institute
 * **October 2024:** Africa Regional Seminar at Wharton’s Lauder Institute for Management and International Studies, University of Pennsylvania
 * **October 2024:** African Studies Center on Ethics of AI in Africa Symposium, University of Kansas
 * **October 2024:** Michigan AI Seminar, University of Michigan
