@@ -4,6 +4,8 @@ www.chinasatokolo.com
 
 Thank you for your interest in booking me for a speaking engagement! Over the years, I have enjoyed speaking at dozens of domestic and international workshops, panels, conferences, and webinars. Please read this document carefully before proceeding with contact.
 
+Note: If requested to travel, I require a one-month notice for domestic events and a two-month notice for international events. 
+
 ## Speaking Fee
 Given the value of my expertise and time dedicated to my research, it is important that I receive compensation for my participation in events. I do not charge for events hosted by student groups or nonprofit organizations unless there is an existing budget for speakers. My speaking fee is also waived for smaller-scale or virtual events unless the event is ticketed (paid registration) or there is also an existing budget for speakers.
 
