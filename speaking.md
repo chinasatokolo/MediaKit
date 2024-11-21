@@ -7,6 +7,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 ## Invited Talks 
 * **November 2024:** [Technology Transfer and Culture in Africa: Large Scale Models in Focus](https://www.uj.ac.za/faculties/humanities/departments-2/philosophy/workshop-and-conference-2024/) at the University of Johannesburg — _Johannesburg, South Africa_
 * **November 2024:** [AI in Africa Workshop](https://sites.google.com/view/aia2024) at the ACM International Conference on AI in Finance (ICAIF ‘24) — _Remote_
+* **November 2024:** [27th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW)](https://programs.sigchi.org/cscw/2024) — _San José, Costa Rica_
 * **October 2024:** Georgia Tech [Summit on Responsible Computing, AI, and Society](https://rcais.github.io/) — _Atlanta, GA_
 * **October 2024:** [Global Action Forum](https://www.cas-strategies.com/forum) — _Washington, D.C._
 * **October 2024:** [Fundraising.AI Summit](https://app.experiencewelcome.com/events/vgurAv) — _Remote_
