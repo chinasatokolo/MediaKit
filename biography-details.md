@@ -40,4 +40,4 @@ Last Name: Oh-koh-loh
 
 
 
-_Note: Please keep the “T.” in Chinasa T. Okolo in all formal communications and marketing copy_
+_Note: Please keep the “T.” in Chinasa T. Okolo in all formal communications and marketing copy. I also request my title, "Dr." or "Ph.D.," to appear when appropriate._
