@@ -5,6 +5,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Invited Talks 
+* **December 2024:** Keynote at the [VII Brazilian Meeting on Research Integrity, Science and Publication Ethics](https://www.viibrispe2024.com/about-5) — _Rio de Janeiro, Brazil_
 * **November 2024:** [Technology Transfer and Culture in Africa: Large Scale Models in Focus](https://www.uj.ac.za/faculties/humanities/departments-2/philosophy/workshop-and-conference-2024/) at the University of Johannesburg — _Johannesburg, South Africa_
 * **November 2024:** [AI in Africa Workshop](https://sites.google.com/view/aia2024) at the ACM International Conference on AI in Finance (ICAIF ‘24) — _Remote_
 * **November 2024:** [27th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW)](https://programs.sigchi.org/cscw/2024) — _San José, Costa Rica_
