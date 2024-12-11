@@ -70,6 +70,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Panels & Roundtables
+* **December 2024:** ["Transforming Nonprofit Engagement With AI: Insights from Early Adopters"](https://events.goldcast.io/splash/2859cd4f-7a6d-4256-8af5-7da7bf1e98ed) Panel, _Twilio_
 * **October 2024:** "AI Governance: Navigating the Ethics and Regulation of Emerging Technologies in Media & Communication" Panel, _Johns Hopkins University_
 * **October 2024:** "Technology, Media, and Democracy" Panel, MacArthur Foundation
 * **October 2024:** [COIR Symposium](https://awiu.org/coir-2024/2024-coir-symposium-program/), American Women for International Understanding (AWIU)
