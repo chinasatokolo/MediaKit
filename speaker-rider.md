@@ -43,7 +43,7 @@ Please refer to this [document](https://github.com/chinasaokolo/MediaKit/blob/ma
 I am also happy to promote my involvement in your event on social media. If necessary, please provide me with any social media templates or blurbs/hashtags to use. 
 
 ### Event Setup
-For formal presentations, I prefer to use my MacBook Pro and USB-C/HDMI adapter to connect to projectors. For accessibility purposes, I request access to a microphone. Lapel (lavalier) or on-podium microphones are preferred, but I can also work with handheld microphones. Listed below is the ideal setup I prefer:
+For formal presentations, I prefer to use my MacBook Pro and USB-C/HDMI adapter to connect to projectors. For accessibility purposes, I request access to a microphone. Lapel (lavalier) or on-podium microphones are suggested, but I can also work with handheld microphones. Listed below is the ideal setup I prefer:
 * Microphone
 * Power source for MacBook Pro
 * Projector with HDMI input and cable
@@ -53,7 +53,7 @@ For formal presentations, I prefer to use my MacBook Pro and USB-C/HDMI adapter 
 For panels or other event setups that require moderation, I request that questions be provided at least two business days beforehand. Moderation should be provided in accordance with the event code of conduct, and efforts should be taken to prevent harassment for both in-person and remote events.
 
 ### Recording/Photography
-I appreciate having access to photos and recordings taken throughout my participation in your event. If required, please share a release form to obtain my consent beforehand. All speaking materials are the intellectual property of Chinasa T. Okolo unless I am contracted to create content specifically for your event.
+I appreciate having access to photos and audiovisual recordings taken throughout my participation in your event. If required, please share a release form to obtain my consent beforehand. All speaking and presentation materials are the intellectual property of Chinasa T. Okolo unless I am contracted to create content specifically for your event.
 
 ### Accessibility
 For the comfort and safety of myself and all participants, I request standard accessibility measures for all in-person and remote events. In-person events should be accessible in accordance with standards set by the [Americans with Disabilities Act](https://www.access-board.gov/ada/#ada-221) and in compliance with local facility access requirements. Online events should be accessible in accordance with [WCAG AA](https://www.w3.org/WAI/WCAG2AA-Conformance) guidelines. To assist with live-captioning for in-person/remote events, I am happy to share the script of my presentation.
