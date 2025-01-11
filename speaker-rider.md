@@ -13,7 +13,7 @@ Given the value of my expertise and time dedicated to my research, it is importa
 Due to the complexity of speaking arrangements, I do not have a standard honorarium. Please contact me to discuss a fee commensurate with your request.
 
 ## Travel Logistics
-I am based at the Brookings Institution, a  501(c)(3) nonprofit organization. Given Brookings’ limited ability to cover travel for scholars, I request that my travel (airfare, ground transportation, accommodation, and meals) be covered by organizations or individuals requesting my participation at events.
+I am based at the Brookings Institution, a  501(c)(3) nonprofit organization. Given Brookings’ limited ability to cover travel for scholars, I require that my travel (airfare, ground transportation, accommodation, and meals) be covered by organizations or individuals requesting my in-person participation at events.
 
 ### Flight and Ground Transportation
 I am based in Washington, D.C., and typically travel out of Washington Dulles Airport (IAD) or Ronald Reagan Airport (DCA). My preferred airline is United Airlines when flying domestically and internationally. For travel to international locations not directly served by United, I prefer to be booked with [Star Alliance partners](https://www.staralliance.com/en/members) (e.g., Lufthansa, Brussels Airlines, Turkish Airlines). All flight bookings should be in premium economy class or higher (no basic economy).
