@@ -5,6 +5,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Invited Talks 
+* **January 2025:** [Autonomous Innovation Summit](https://www.boardofinnovation.com/autonomous-summit/), _Remote_
 * **December 2024:** Keynote at the [VII Brazilian Meeting on Research Integrity, Science and Publication Ethics](https://www.viibrispe2024.com/about-5) — _Rio de Janeiro, Brazil_
 * **November 2024:** [Technology Transfer and Culture in Africa: Large Scale Models in Focus](https://www.uj.ac.za/faculties/humanities/departments-2/philosophy/workshop-and-conference-2024/) at the University of Johannesburg — _Johannesburg, South Africa_
 * **November 2024:** [AI in Africa Workshop](https://sites.google.com/view/aia2024) at the ACM International Conference on AI in Finance (ICAIF ‘24) — _Remote_
@@ -70,6 +71,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Panels & Roundtables
+* **January 2025:** Howard Law Ferguson Symposium, _Howard University_
 * **December 2024:** ["Transforming Nonprofit Engagement With AI: Insights from Early Adopters"](https://events.goldcast.io/splash/2859cd4f-7a6d-4256-8af5-7da7bf1e98ed) Panel, _Twilio_
 * **October 2024:** "AI Governance: Navigating the Ethics and Regulation of Emerging Technologies in Media & Communication" Panel, _Johns Hopkins University_
 * **October 2024:** "Technology, Media, and Democracy" Panel, MacArthur Foundation
@@ -110,6 +112,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Interviews & Podcasts
+* **January 2025:** ["Realizing Africa’s Potential: A Conversation with Book Author, Landry Signé"](https://shows.acast.com/tech-tank/episodes/realizing-africas-potential-a-conversation-with-book-author-), Brookings TechTank Podcast_
 * **October 2024:** ["Meet Nigerian-American Computer Scientist, Chinasa Okolo Named in TIME 100"](https://www.youtube.com/watch?v=lJTFOZQplcc) with Channels TV
 * **October 2024:** [Charting an AI Roadmap for the Emerging World](https://www.youtube.com/watch?app=desktop&v=itGA6F2l4_s), Siliconsciousness
 * **September 2024:** [How Infrastructure, Education can Boost Africa’s Adoption of AI, Development](https://www.africainterviews.com/how-infrastructure-education-can-help-africas-adoption-of-ai-development-dr-chinasa-okolo/), Africa Interviews
