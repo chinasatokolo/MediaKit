@@ -74,6 +74,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Panels & Roundtables
+* **February 2025:** [“Green futures: AI, ecology, and policies for people and the planet”](https://www.rightscon.org/program/) Session at RightsCon — _Taipei, Taiwan_
 * **February 2025:** “Africa’s AI Strategy: Opportunities, Challenges, and the Path Forward” Panel at the [Harvard Africa Business Conference](https://www.africa-hbsclub.com/) — _Cambridge, MA_
 * **February 2025:** United Nations Diplomats Briefing “AI Key Concepts and Recent Trends: Information Session for Member States" for the UN Office for Digital and Emerging Technologies (ODET) — _Remote_
 * **February 2025:** “Catalyzing AI Innovation Ecosystems Worldwide” Panel at [Trustworthy Innovation for a Connected World](https://www.cas-strategies.com/ai-action-summit) AI Action Summit Side Event — _Paris, France_
