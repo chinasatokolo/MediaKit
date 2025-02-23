@@ -53,6 +53,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Academic & Industry Guest Lectures and Seminars
+* **February 2025:** [Artificial Intelligence Strategy in the Security Domain Development Seminar](https://africacenter.org/programs/ai-strategy/) for the Africa Center for Strategic Studies — _Remote_
 * **February 2025:** "AI and the Global Majority" Lecture for the EUI Florence School of Transnational Governance [AI and Governance: Embracing and Harnessing AI for the Public Good Course](https://www.eui.eu/apply?id=ai-and-governance-embracing-and-harnessing-ai-for-the-public-good) — _Remote_
 * **January 2025:** Harvard Kennedy School [Center for International Development Speaker Series](https://www.hks.harvard.edu/events/broadening-perspectives-ai-and-data-governance-africa) — _Cambridge, MA_
 * **October 2024:** "AI, Bias, and Ethics for Tech Diplomacy" Lecture, Foreign Service Institute
@@ -93,7 +94,8 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **July 2024:** [Salesforce Global AI Leadership Summit](https://events.eurasiagroup.net/event/ai-leadership-summit-2024/summary)
 * **June 2024:** [The Economics of AI in Africa](https://www.youtube.com/watch?v=XYdp_vjCNb4), _HoaQ Club _
 * **June 2024:** ["Where does Society Stand on Responsible AI?"](https://youtu.be/LNf8gSsQpm4?feature=shared) Panel, _Global Digital Development Forum_ 
-* **May 2024:** "An African Perspective on AI Governance" Roundtable, _Carnegie Endowment for International Peace_ 
+* **May 2024:** "An African Perspective on AI Governance" Roundtable, _Carnegie Endowment for International Peace_
+* **April 2024:** [The African Union AI Continental Strategy: Examining the African AI Landscape](https://www.csis.org/events/african-union-ai-continental-strategy-examining-african-ai-landscape) for the Center for Strategic & International Studies — _Virtual_
 * **April 2024:** [Stanford HAI AI+Policy Symposium: A Global Stocktaking](https://hai.stanford.edu/events/aipolicy-symposium-global-stocktaking), _Stanford University_
 * **April 2024:** Anchoring AI in Policy and Politics of Change Session, _CRPE Think Forward AI Learning Forum_
 * **February 2024:** [Digital & AI: The Power of New Technology in Africa Panel](https://www.hsph.harvard.edu/africa-health-conference/agenda/) ([Recording](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aaf933a8-66ea-4e9a-a626-b11800e86ec2)), _Harvard Africa Health Conference_
