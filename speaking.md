@@ -5,6 +5,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Invited Talks 
+* **February 2025:** Alma Mater Europaea University [AI Research Development Roundtable](https://toplaktours.my.canva.site/alma-mater-artificial-inteligence-center) — _Remote_
 * **January 2025:** [Autonomous Innovation Summit](https://www.boardofinnovation.com/autonomous-summit/), _Remote_
 * **December 2024:** Keynote at the [VII Brazilian Meeting on Research Integrity, Science and Publication Ethics](https://www.viibrispe2024.com/about-5) — _Rio de Janeiro, Brazil_
 * **November 2024:** [Technology Transfer and Culture in Africa: Large Scale Models in Focus](https://www.uj.ac.za/faculties/humanities/departments-2/philosophy/workshop-and-conference-2024/) at the University of Johannesburg — _Johannesburg, South Africa_
@@ -52,6 +53,8 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Academic & Industry Guest Lectures and Seminars
+* **February 2025:** "AI and the Global Majority" Lecture for the EUI Florence School of Transnational Governance [AI and Governance: Embracing and Harnessing AI for the Public Good Course](https://www.eui.eu/apply?id=ai-and-governance-embracing-and-harnessing-ai-for-the-public-good) — _Remote_
+* **January 2025:** Harvard Kennedy School [Center for International Development Speaker Series](https://www.hks.harvard.edu/events/broadening-perspectives-ai-and-data-governance-africa) — _Cambridge, MA_
 * **October 2024:** "AI, Bias, and Ethics for Tech Diplomacy" Lecture, Foreign Service Institute
 * **October 2024:** Africa Regional Seminar at Wharton’s Lauder Institute for Management and International Studies, University of Pennsylvania
 * **October 2024:** African Studies Center on Ethics of AI in Africa Symposium, University of Kansas
@@ -71,6 +74,10 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Panels & Roundtables
+* **February 2025:** “Africa’s AI Strategy: Opportunities, Challenges, and the Path Forward” Panel at the [Harvard Africa Business Conference](https://www.africa-hbsclub.com/) — _Cambridge, MA_
+* **February 2025:** United Nations Diplomats Briefing “AI Key Concepts and Recent Trends: Information Session for Member States" for the UN Office for Digital and Emerging Technologies (ODET) — _Remote_
+* **February 2025:** “Catalyzing AI Innovation Ecosystems Worldwide” Panel at [Trustworthy Innovation for a Connected World](https://www.cas-strategies.com/ai-action-summit) AI Action Summit Side Event — _Paris, France_
+* **February 2025:** [Africa AI Village](https://aivillage.africa/) — _Paris, France_
 * **January 2025:** Howard Law Ferguson Symposium, _Howard University_
 * **December 2024:** ["Transforming Nonprofit Engagement With AI: Insights from Early Adopters"](https://events.goldcast.io/splash/2859cd4f-7a6d-4256-8af5-7da7bf1e98ed) Panel, _Twilio_
 * **October 2024:** "AI Governance: Navigating the Ethics and Regulation of Emerging Technologies in Media & Communication" Panel, _Johns Hopkins University_
