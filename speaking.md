@@ -75,6 +75,8 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Panels & Roundtables
+* **March 2025:** "Emerging Technologies and the Global South" panel at the [Georgetown Journal of International Law Symposium](https://www.law.georgetown.edu/event/georgetown-journal-of-international-law-symposium-emerging-technologies-international-law/) — _Washington, D.C._
+* **March 2025:** "Risks and rewards in the Al race" panel at [EuroFinance Treasury & Cash Management Summit West Coast](https://www.eurofinance.com/treasury-cash-management-summit-west-coast/agenda/) — _Santa Clara, CA_
 * **February 2025:** [“Green futures: AI, ecology, and policies for people and the planet”](https://www.rightscon.org/program/) Session at RightsCon — _Taipei, Taiwan_
 * **February 2025:** “Africa’s AI Strategy: Opportunities, Challenges, and the Path Forward” Panel at the [Harvard Africa Business Conference](https://www.africa-hbsclub.com/) — _Cambridge, MA_
 * **February 2025:** United Nations Diplomats Briefing “AI Key Concepts and Recent Trends: Information Session for Member States" for the UN Office for Digital and Emerging Technologies (ODET) — _Remote_
