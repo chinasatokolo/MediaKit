@@ -120,11 +120,12 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **September 2020:** ["How Can Ph.D. and Postdocs Pursue Entrepreneurship?"](https://youtu.be/ALekA6t67ZY), _Women Entrepreneurs Cornell_
 * **June 2020:** CS Rising SophoMore (CSMore) Summer Program PhD Panel, _Cornell University_
 * **October 2019:** Entrepreneurship & Technology Panel, _Cornell African Development Conference_ 
-* **August 2019:** ["Mastering Your Transition Into and Progression Through Graduate School"](https://gradschool.cornell.edu/diversity-inclusion/signature-initiatives/summer-success-symposium/2019-summer-success-symposium-bios/), _Cornell Summer Success Symposium _ 
+* **August 2019:** ["Mastering Your Transition Into and Progression Through Graduate School"](https://gradschool.cornell.edu/diversity-inclusion/signature-initiatives/summer-success-symposium/2019-summer-success-symposium-bios/), _Cornell Summer Success Symposium_
 
 
 ## Interviews & Podcasts
-* **January 2025:** ["Realizing Africa’s Potential: A Conversation with Book Author, Landry Signé"](https://shows.acast.com/tech-tank/episodes/realizing-africas-potential-a-conversation-with-book-author-), Brookings TechTank Podcast_
+* **January 2025:** ["DeepSeek’s AI is cheap. Is this a game-changer for African startups?"](https://www.csis.org/podcasts/afropolitan/deepseeks-ai-cheap-game-changer-african-startups), CSIS The Afropolitan Podcast
+* **January 2025:** ["Realizing Africa’s Potential: A Conversation with Book Author, Landry Signé"](https://shows.acast.com/tech-tank/episodes/realizing-africas-potential-a-conversation-with-book-author-), Brookings TechTank Podcast
 * **October 2024:** ["Meet Nigerian-American Computer Scientist, Chinasa Okolo Named in TIME 100"](https://www.youtube.com/watch?v=lJTFOZQplcc) with Channels TV
 * **October 2024:** [Charting an AI Roadmap for the Emerging World](https://www.youtube.com/watch?app=desktop&v=itGA6F2l4_s), Siliconsciousness
 * **September 2024:** [How Infrastructure, Education can Boost Africa’s Adoption of AI, Development](https://www.africainterviews.com/how-infrastructure-education-can-help-africas-adoption-of-ai-development-dr-chinasa-okolo/), Africa Interviews
