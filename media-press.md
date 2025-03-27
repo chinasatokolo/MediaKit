@@ -6,7 +6,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 ## Media Commentary
 * **March 2025:** ["What you need to know about Africa’s first AI factory"](https://restofworld.org/2025/nvidia-africa-ai-factory/) in Rest of World
-* **March 2025:** [AI for the world, or just the West? How researchers are tackling Big Tech's global gaps](https://www.zdnet.com/article/ai-for-the-world-or-just-the-west-how-researchers-are-tackling-big-techs-global-gaps/) in ZDNet
+* **March 2025:** ["AI for the world, or just the West? How researchers are tackling Big Tech's global gaps"](https://www.zdnet.com/article/ai-for-the-world-or-just-the-west-how-researchers-are-tackling-big-techs-global-gaps/) in ZDNet
 * **October 2024:** ["The Gulf's AI Arms Race Is Just Getting Started"](https://www.jamcq.com/p/the-gulfs-ai-arms-race-is-just-getting) in JAM CQ
 * **October 2024:** Segment on ["Straight Talk Africa" Program](https://www.voaafrica.com/a/7836268.html) for Voice of America
 * **September 2024:** ["At TIME100 Impact Dinner, AI Leaders Discuss the Technology’s Transformative Potential"](https://time.com/7021119/time100-impact-dinner-ai-transformative-potential-kurzweil-okolo-kelly-kumar/) in TIME
