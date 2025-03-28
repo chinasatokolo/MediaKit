@@ -2,8 +2,8 @@
 A list of awards and honors received by Dr. Chinasa T. Okolo.
 
 ## Awards
+* **December 2024:** New African Magazine’s [Most Influential Africans of 2024](https://100.newafricanmagazine.com/)
 * **December 2024:** [Forbes Under 30 - AI Category](https://www.forbes.com/30-under-30/2025/ai?profile=chinasa-t-okolo)
-* **December 2024:** [Most Influential Africans of 2024](https://100.newafricanmagazine.com/)
 * **September 2024:** [TIME100 Most Influential People in AI](https://time.com/7012894/chinasa-t-okolo/)
 * **May 2024:** Delegate, World Bank Group Youth Summit
 * **April 2024:** MIPAD Global Top 100 Futurists and Innovators
