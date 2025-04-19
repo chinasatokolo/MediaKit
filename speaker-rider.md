@@ -2,7 +2,7 @@
 Chinasa T. Okolo, Ph.D. \
 www.chinasatokolo.com
 
-Thank you for your interest in booking me for a speaking engagement! Over the years, I have enjoyed speaking at dozens of domestic and international workshops, panels, conferences, and webinars. Please read this document carefully before proceeding with contact. I will respond to all inquiries within three (3) business days.
+Thank you for your interest in booking me for a speaking engagement! Over the years, I have enjoyed speaking at dozens of domestic and international workshops, panels, conferences, and webinars. Please read this document carefully before proceeding with contact. I will respond to all inquiries within three (3) business days unless I am on vacation.
 
 Note: If requested to travel, I request at least a one-month notice for domestic events and a two-month notice for international events. 
 
@@ -38,7 +38,7 @@ The sections below detail my preferences for in-person events. For hybrid or rem
 As a speaker, I request a ticket to access the full event to enhance my participation and engagement with other speakers, panelists, and attendees.
 
 ### Marketing
-Please refer to this [document](https://github.com/chinasaokolo/MediaKit/blob/main/biography-details.md) for my approved biography and name pronunciation. My headshots are available [here](https://github.com/chinasaokolo/MediaKit/tree/main/images/headshots). I request that my middle initial “T.” be used in all formal correspondence and marketing materials (“Chinasa T. Okolo” not “Chinasa Okolo”). My title (Dr. or Ph.D.) should be added to my name when appropriate.
+Please refer to this [document](https://github.com/chinasaokolo/MediaKit/blob/main/biography-details.md) for my approved biography and name pronunciation. My headshots are available [here](https://github.com/chinasaokolo/MediaKit/tree/main/images/headshots). I request that my middle initial “T.” be used in all formal correspondence and marketing materials (“Chinasa T. Okolo” not “Chinasa Okolo”). My title ("Dr." or "Ph.D.") should be added to my name when appropriate.
 
 I am also happy to promote my involvement in your event on social media. If necessary, please provide me with any social media templates or blurbs/hashtags to use. 
 
