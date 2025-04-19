@@ -80,7 +80,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 ## Panels & Roundtables
 * **April 2025:** ["AI for All: African Youth Voices Shaping the Future"](https://c4ir.rw/global-ai-summit-on-africa/sessions/African-Youth-Voices-Shaping-the-Future) session at the Global AI Summit on Africa — _Kigali, Rwanda_
-* **March 2025:** "What Does AI Mean for Climate Change and Gender Equity?" panel for Black Professionals in International Affairs (BPIA) — _Remote_
+* **March 2025:** ["What Does AI Mean for Climate Change and Gender Equity?"](https://iabpia.org/event-6129821) panel for Black Professionals in International Affairs (BPIA) — _Remote_
 * **March 2025:** "Emerging Technologies and the Global South" panel at the [Georgetown Journal of International Law Symposium](https://www.law.georgetown.edu/event/georgetown-journal-of-international-law-symposium-emerging-technologies-international-law/) — _Washington, D.C._
 * **March 2025:** "Risks and rewards in the Al race" panel at [EuroFinance Treasury & Cash Management Summit West Coast](https://www.eurofinance.com/treasury-cash-management-summit-west-coast/agenda/) — _Santa Clara, CA_
 * **February 2025:** [“Green futures: AI, ecology, and policies for people and the planet”](https://www.rightscon.org/program/) Session at RightsCon — _Taipei, Taiwan_
