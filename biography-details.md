@@ -32,7 +32,8 @@ Chinasa T. Okolo, Ph.D., is a Fellow at The Brookings Institution and a recent C
 Twitter: [@ChinasaTOkolo](https://www.twitter.com/ChinasaTOkolo) \
 LinkedIn: [Chinasa T. Okolo](https://www.linkedin.com/in/chinasatokolo) \
 Facebook: [Chinasa T. Okolo](https://www.facebook.com/ChinasaTOkolo) \
-Instagram: [Chinasa T. Okolo](https://www.instagram.com/ChinasaTOkolo)
+Instagram: [Chinasa T. Okolo](https://www.instagram.com/ChinasaTOkolo) \
+Bluesky: [Chinasa T. Okolo](https://bsky.app/profile/chinasa.bsky.social) 
 
 ## Name Pronunciation
 First name: Chee-nah-sah 		
