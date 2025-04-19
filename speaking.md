@@ -5,6 +5,8 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Invited Talks 
+* **April 2025:** Seminar on AI and Society for the Tunisian National Defense Institute — _Arlington, VA_
+* **March 2025:** [Tech Governance Project (TGov)](https://www.tgov.org/) Seminar on AI Governance — _Remote_
 * **February 2025:** Alma Mater Europaea University [AI Research Development Roundtable](https://toplaktours.my.canva.site/alma-mater-artificial-inteligence-center) — _Remote_
 * **January 2025:** [Autonomous Innovation Summit](https://www.boardofinnovation.com/autonomous-summit/), _Remote_
 * **December 2024:** Keynote at the [VII Brazilian Meeting on Research Integrity, Science and Publication Ethics](https://www.viibrispe2024.com/about-5) — _Rio de Janeiro, Brazil_
@@ -53,6 +55,8 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Academic & Industry Guest Lectures and Seminars
+* **April 2025:** BPIA Colin Powell Leadership Institute Lecture on Artificial Intelligence & International Security — _Remote_
+* **April 2025:** Tunisian National Defense Institute Seminar on AI and Society  — _Arlington, VA_
 * **February 2025:** [Artificial Intelligence Strategy in the Security Domain Development Seminar](https://africacenter.org/programs/ai-strategy/) for the Africa Center for Strategic Studies — _Remote_
 * **February 2025:** "AI and the Global Majority" Lecture for the EUI Florence School of Transnational Governance [AI and Governance: Embracing and Harnessing AI for the Public Good Course](https://www.eui.eu/apply?id=ai-and-governance-embracing-and-harnessing-ai-for-the-public-good) — _Remote_
 * **January 2025:** Harvard Kennedy School [Center for International Development Speaker Series](https://www.hks.harvard.edu/events/broadening-perspectives-ai-and-data-governance-africa) — _Cambridge, MA_
@@ -75,6 +79,8 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Panels & Roundtables
+* **April 2025:** Global AI Summit on Africa — _Kigali, Rwanda_
+* **March 2025:** "What Does AI Mean for Climate Change and Gender Equity?" panel for Black Professionals in International Affairs (BPIA) — _Remote_
 * **March 2025:** "Emerging Technologies and the Global South" panel at the [Georgetown Journal of International Law Symposium](https://www.law.georgetown.edu/event/georgetown-journal-of-international-law-symposium-emerging-technologies-international-law/) — _Washington, D.C._
 * **March 2025:** "Risks and rewards in the Al race" panel at [EuroFinance Treasury & Cash Management Summit West Coast](https://www.eurofinance.com/treasury-cash-management-summit-west-coast/agenda/) — _Santa Clara, CA_
 * **February 2025:** [“Green futures: AI, ecology, and policies for people and the planet”](https://www.rightscon.org/program/) Session at RightsCon — _Taipei, Taiwan_
