@@ -5,7 +5,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Invited Talks 
-* **April 2025:** Seminar on AI and Society for the Tunisian National Defense Institute — _Arlington, VA_
+* **April 2025:** "AI and Society" seminar for the Tunisian National Defense Institute — _Arlington, VA_
 * **March 2025:** [Tech Governance Project (TGov)](https://www.tgov.org/) Seminar on AI Governance — _Remote_
 * **February 2025:** Alma Mater Europaea University [AI Research Development Roundtable](https://toplaktours.my.canva.site/alma-mater-artificial-inteligence-center) — _Remote_
 * **January 2025:** [Autonomous Innovation Summit](https://www.boardofinnovation.com/autonomous-summit/), _Remote_
