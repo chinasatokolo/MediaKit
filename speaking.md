@@ -79,6 +79,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Panels & Roundtables
+* **April 2025:** "Building the Ecosystems: Preparing Africa for the Digital Future" panel at the George Washington University Africa’s Youth and the Technology Revolution Conference  — _Washington, D.C._
 * **April 2025:** ["AI for All: African Youth Voices Shaping the Future"](https://c4ir.rw/global-ai-summit-on-africa/sessions/African-Youth-Voices-Shaping-the-Future) session at the Global AI Summit on Africa — _Kigali, Rwanda_
 * **March 2025:** ["What Does AI Mean for Climate Change and Gender Equity?"](https://iabpia.org/event-6129821) panel for Black Professionals in International Affairs (BPIA) — _Remote_
 * **March 2025:** "Emerging Technologies and the Global South" panel at the [Georgetown Journal of International Law Symposium](https://www.law.georgetown.edu/event/georgetown-journal-of-international-law-symposium-emerging-technologies-international-law/) — _Washington, D.C._
