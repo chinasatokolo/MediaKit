@@ -5,6 +5,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Invited Talks 
+* **April 2025:** Massachusetts Institute of Technology’s [AI4Society Seminar Series](https://ai4society.mit.edu/seminar/) — _Cambridge, MA_
 * **April 2025:** "AI and Society" seminar for the Tunisian National Defense Institute — _Arlington, VA_
 * **March 2025:** [Tech Governance Project (TGov)](https://www.tgov.org/) Seminar on AI Governance — _Remote_
 * **February 2025:** Alma Mater Europaea University [AI Research Development Roundtable](https://toplaktours.my.canva.site/alma-mater-artificial-inteligence-center) — _Remote_
@@ -79,6 +80,9 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Panels & Roundtables
+* **May 2025:** "AI for all beings: Translating ethics into action" session at [Web Summit](https://vancouver.websummit.com/schedule/) — _Vancouver, Canada_
+* **May 2025:** The Global Impact of AI event for the Friedrich Naumann Foundation — _Washington, D.C._
+* **May 2025:** "Global AI Governance - Balancing Innovation and Accountability" session at [Deep Tech Summit](https://deeptech.um6p.ma/) — _Benguerir, Morocco_
 * **April 2025:** "Building the Ecosystems: Preparing Africa for the Digital Future" panel at the George Washington University Africa’s Youth and the Technology Revolution Conference  — _Washington, D.C._
 * **April 2025:** ["AI for All: African Youth Voices Shaping the Future"](https://c4ir.rw/global-ai-summit-on-africa/sessions/African-Youth-Voices-Shaping-the-Future) session at the Global AI Summit on Africa — _Kigali, Rwanda_
 * **March 2025:** ["What Does AI Mean for Climate Change and Gender Equity?"](https://iabpia.org/event-6129821) panel for Black Professionals in International Affairs (BPIA) — _Remote_
