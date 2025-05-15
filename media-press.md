@@ -5,6 +5,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Media Commentary
+* **May 2025:** [Thoughts on how Africa can lead responsible AI innovation](https://technext24.com/2025/05/15/africa-lead-responsible-ai-innovation/) in Technext
 * **April 2025:** ["Africa’s AI ambitions take the spotlight in Rwanda"](https://www.semafor.com/article/04/02/2025/africas-ai-ambitions-take-the-spotlight-in-rwanda) in SEMAFOR
 * **March 2025:** ["What you need to know about Africa’s first AI factory"](https://restofworld.org/2025/nvidia-africa-ai-factory/) in Rest of World
 * **March 2025:** ["AI for the world, or just the West? How researchers are tackling Big Tech's global gaps"](https://www.zdnet.com/article/ai-for-the-world-or-just-the-west-how-researchers-are-tackling-big-techs-global-gaps/) in ZDNet
