@@ -58,7 +58,6 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 ## Academic & Industry Guest Lectures and Seminars
 * **April 2025:** BPIA Colin Powell Leadership Institute Lecture on Artificial Intelligence & International Security — _Remote_
-* **April 2025:** Tunisian National Defense Institute Seminar on AI and Society  — _Arlington, VA_
 * **February 2025:** [Artificial Intelligence Strategy in the Security Domain Development Seminar](https://africacenter.org/programs/ai-strategy/) for the Africa Center for Strategic Studies — _Remote_
 * **February 2025:** "AI and the Global Majority" Lecture for the EUI Florence School of Transnational Governance [AI and Governance: Embracing and Harnessing AI for the Public Good Course](https://www.eui.eu/apply?id=ai-and-governance-embracing-and-harnessing-ai-for-the-public-good) — _Remote_
 * **January 2025:** Harvard Kennedy School [Center for International Development Speaker Series](https://www.hks.harvard.edu/events/broadening-perspectives-ai-and-data-governance-africa) — _Cambridge, MA_
@@ -82,7 +81,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 ## Panels & Roundtables
 * **May 2025:** "AI for all beings: Translating ethics into action" session at [Web Summit](https://vancouver.websummit.com/schedule/) — _Vancouver, Canada_
-* **May 2025:**  The Human Equation: Balancing Act in AI Safety with Scale at VanCity Innovation House — _Vancouver, Canada_
+* **May 2025:**  "The Human Equation: Balancing Act in AI Safety with Scale" panel at [Vancity Innovation House](https://vancityinnovationhouse.com/) — _Vancouver, Canada_
 * **May 2025:** "AI for Sustainable Development in Africa" Webinar for the Global Center on AI Governance and the African Observatory on Responsible AI  — _Remote_
 * **May 2025:** "The Global Impact of AI" event for the Friedrich Naumann Foundation — _Washington, D.C._
 * **May 2025:** "Global AI Governance - Balancing Innovation and Accountability" session at [Deep Tech Summit](https://deeptech.um6p.ma/) — _Benguerir, Morocco_
