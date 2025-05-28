@@ -5,7 +5,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Invited Talks 
-* **May 2025:** Ethical Dimensions of AI in Storytelling Session for the [Centre for Journalism Innovation and Development](https://thecjid.org/) AI & Tech Accountability Reporting Fellowship — _Remote_
+* **May 2025:** "Ethical Dimensions of AI in Storytelling" session for the [Centre for Journalism Innovation and Development](https://thecjid.org/) AI & Tech Accountability Reporting Fellowship — _Remote_
 * **April 2025:** "AI and Society" seminar for the Tunisian National Defense Institute — _Arlington, VA_
 * **March 2025:** [Tech Governance Project (TGov)](https://www.tgov.org/) Seminar on AI Governance — _Remote_
 * **February 2025:** Alma Mater Europaea University [AI Research Development Roundtable](https://toplaktours.my.canva.site/alma-mater-artificial-inteligence-center) — _Remote_
