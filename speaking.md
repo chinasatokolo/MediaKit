@@ -80,6 +80,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Panels & Roundtables
+* **June 2025:** "Contextualizing AI Regulatory Approaches in Africa" session at [2nd Conference on the State of Artificial Intelligence in Africa](https://aiconference.cipit.org/) — _Nairobi, Kenya_
 * **May 2025:** "AI for all beings: Translating ethics into action" session at [Web Summit](https://vancouver.websummit.com/schedule/) — _Vancouver, Canada_
 * **May 2025:**  "The Human Equation: Balancing Act in AI Safety with Scale" panel at [Vancity Innovation House](https://vancityinnovationhouse.com/) — _Vancouver, Canada_
 * **May 2025:** "AI for Sustainable Development in Africa" webinar for the Global Center on AI Governance and the African Observatory on Responsible AI  — _Remote_
