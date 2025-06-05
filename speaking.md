@@ -58,6 +58,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 ## Academic & Industry Guest Lectures and Seminars
 * **April 2025:** Massachusetts Institute of Technology’s [AI4Society Seminar Series](https://ai4society.mit.edu/seminar/) — _Cambridge, MA_
 * **April 2025:** BPIA Colin Powell Leadership Institute Lecture on Artificial Intelligence & International Security — _Remote_
+* **March 2024:** Inclusive AI Governance Guest Lecture, Global AI Governance (SEST 6735), Georgetown University — _Washington, D.C._
 * **February 2025:** [Artificial Intelligence Strategy in the Security Domain Development Seminar](https://africacenter.org/programs/ai-strategy/) for the Africa Center for Strategic Studies — _Remote_
 * **February 2025:** "AI and the Global Majority" Lecture for the EUI Florence School of Transnational Governance [AI and Governance: Embracing and Harnessing AI for the Public Good Course](https://www.eui.eu/apply?id=ai-and-governance-embracing-and-harnessing-ai-for-the-public-good) — _Remote_
 * **January 2025:** Harvard Kennedy School [Center for International Development Speaker Series](https://www.hks.harvard.edu/events/broadening-perspectives-ai-and-data-governance-africa) — _Cambridge, MA_
