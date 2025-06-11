@@ -5,6 +5,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Invited Talks 
+* **June 2025:** "AI Explainability in the Global Majority: Development and Policy Perspectives" talk at the [4th Explainable AI for Computer Vision (XAI4CV) Workshop](https://xai4cv.github.io/workshop_cvpr25) at CVPR 2025  — _Remote_
 * **May 2025:** "Ethical Dimensions of AI in Storytelling" session for the [Centre for Journalism Innovation and Development](https://thecjid.org/) AI & Tech Accountability Reporting Fellowship — _Remote_
 * **April 2025:** "AI and Society" seminar for the Tunisian National Defense Institute — _Arlington, VA_
 * **March 2025:** [Tech Governance Project (TGov)](https://www.tgov.org/) Seminar on AI Governance — _Remote_
