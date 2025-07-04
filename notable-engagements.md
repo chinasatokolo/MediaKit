@@ -5,9 +5,9 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatoko
 
 ## Briefings, Roundtables, and Summits
 
-* **June 2025:** UNESCO Global Forum on the Ethics of AI
-* **June 2025:** Internet Governance Forum
-* **April 2025:** Global AI Summit on Africa
+* **June 2025:** UNESCO Global Forum on the Ethics of AI — _Bangkok, Thailand_
+* **June 2025:** Internet Governance Forum — _Lillestrøm, Norway_
+* **April 2025:** Global AI Summit on Africa — _Kigali, Rwanda_
 * **February 2025:** Carnegie Endowment for International Peace and Smart Africa Roundtable on “Bridging Funding Gaps for Stronger African AI Ecosystems
 * **October 2024:** Global Action Forum: Setting a Global Majority Agenda for AI Innovation — _Washington, D.C._
 * **June 2024:** FII PRIORITY Summit Rio de Janeiro Conclave: Accelerating Responsible AI in Emerging Markets — _Rio de Janeiro, Brazil_
