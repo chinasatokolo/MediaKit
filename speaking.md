@@ -5,6 +5,9 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Invited Talks 
+* **July 2025:** Keynote for the World Bank Group DRIVE for People AI Training Workshop — _Washington, D.C._
+* **June 2025:** "Large Models and Small Players: Leveraging AI in Small States and Startups" session at the [Internet Governance Forum](https://www.igf2025.no/) — _Oslo, Norway_
+* **June 2025:** [Fireside chat](https://webtv.un.org/en/asset/k1v/k1v9042gxh) with Joseph Gordon-Levitt at the [Internet Governance Forum](https://www.igf2025.no/) — _Oslo, Norway_
 * **June 2025:** "AI Explainability in the Global Majority: Development and Policy Perspectives" talk at the [4th Explainable AI for Computer Vision (XAI4CV) Workshop](https://xai4cv.github.io/workshop_cvpr25) at CVPR 2025  — _Remote_
 * **May 2025:** "Ethical Dimensions of AI in Storytelling" session for the [Centre for Journalism Innovation and Development](https://thecjid.org/) AI & Tech Accountability Reporting Fellowship — _Remote_
 * **April 2025:** "AI and Society" seminar for the Tunisian National Defense Institute — _Arlington, VA_
@@ -82,6 +85,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Panels & Roundtables
+* **June 2025:** "Bridging the AI Language Divide: Safeguarding Linguistic Diversity" session at the [UNESCO Global Forum on the Ethics of AI](https://www.unesco.org/en/forum-ethics-ai) — _Bangkok, Thailand_
 * **June 2025:** "Contextualizing AI Regulatory Approaches in Africa" session at [2nd Conference on the State of Artificial Intelligence in Africa](https://aiconference.cipit.org/) — _Nairobi, Kenya_
 * **May 2025:** "AI for all beings: Translating ethics into action" session at [Web Summit](https://vancouver.websummit.com/schedule/) — _Vancouver, Canada_
 * **May 2025:**  "The Human Equation: Balancing Act in AI Safety with Scale" panel at [Vancity Innovation House](https://vancityinnovationhouse.com/) — _Vancouver, Canada_
