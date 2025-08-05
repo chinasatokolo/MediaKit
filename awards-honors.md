@@ -4,18 +4,17 @@ A list of awards and honors received by Dr. Chinasa T. Okolo.
 ## Awards
 * **July 2025:** Black Professionals in International Affairs (BPIA) [Power 50](https://iabpia.org/awards)
 * **June 2025:** AfroTech [Future 50](https://afrotech.com/future-50)
-* **December 2024:** New African Magazine’s [100 Most Influential Africans of 2024](https://100.newafricanmagazine.com/)
-* **December 2024:** [Forbes Under 30 - AI Category](https://www.forbes.com/30-under-30/2025/ai?profile=chinasa-t-okolo)
-* **September 2024:** [TIME100 Most Influential People in AI](https://time.com/7012894/chinasa-t-okolo/)
-* **May 2024:** Delegate, World Bank Group Youth Summit
-* **April 2024:** MIPAD Global Top 100 Futurists and Innovators
-* **July 2023:** Trailblazers in Engineering, Purdue University
-* **May 2023:** Rising Stars in Management Science & Engineering, Stanford University
-* **January 2023:** Bouchet Graduate Honor Society Scholar, Cornell University
-* **November 2022:** Distinguished Leadership in Service Award, Cornell Bowers CIS
-* **May 2022:** Community Outreach Award, Cornell Graduate School
-* **December 2021:** 100 Brilliant Women in AI Ethics™ 
-* **October 2021:** NextGen Professors Fellow, Cornell Graduate School
+* **December 2024:** New African Magazine’s [Most Influential Africans of 2024](https://100.newafricanmagazine.com/)
+* **December 2024:** [Forbes Under 30 — AI](https://www.forbes.com/30-under-30/2025/ai) 
+* **September 2024:** [TIME 100 AI](https://time.com/7012894/chinasa-t-okolo/): The 100 Most Influential People in AI 2024
+* **April 2024:** Most Influential People of African Descent (MIPAD) [Class of 2024 Global Top 100 Futurists and Innovators](https://www.mipad.org/)
+* **July 2023:** [Trailblazers in Engineering](https://engineering.purdue.edu/Engr/Trailblazers/Fellows), Purdue University
+* **May 2023:** [Rising Stars in Management Science & Engineering](https://msandepro.stanford.edu/events/rising-stars/2023-rising-stars), Stanford University
+* **January 2023:** [Bouchet Graduate Honor Society Scholar](https://gradschool.cornell.edu/inclusion/bouchet-honor-society/bouchet-graduate-honor-society-scholars/), Cornell University
+* **November 2022:** [Distinguished Leadership in Service Award](https://stat.cornell.edu/news/inaugural-diversity-awards-honor-students-who-foster-inclusive-communities), Cornell Bowers CIS
+* **May 2022:** [Community Outreach Award](https://cis.cornell.edu/chinasa-okolo-receives-community-outreach-award), Cornell Graduate School
+* **December 2021:** [100 Brilliant Women in AI Ethics™ ](https://womeninaiethics.org/the-list/of-2022/)
+* **October 2021:** [NextGen Professors Fellow](https://gradschool.cornell.edu/inclusion/signature-initiatives/nextgen-professors-program/nextgen-alumni/), Cornell Graduate School
 * **May 2021:** Grad Student of the Year, Cornell Diversity Programs in Engineering 
 * **March 2020:** blackcomputeHER Fellow, blackcomputeHER.org  
 * **May 2019:** Graduate Dean's Scholar, Cornell University  
