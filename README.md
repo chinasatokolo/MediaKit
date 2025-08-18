@@ -1,13 +1,11 @@
 # Media Kit
 _Comprehensive media kit, collection of resources from prior speaking engagements, and guidance on booking Dr. Chinasa T. Okolo for speaking engagements._
 
-To contact me for interviews or speaking engagements, please email Brookings' Governance Studies Media Office or contact me directly through my [Brookings Website Contact Form](https://www.brookings.edu/people/chinasa-t-okolo/). General inquiries can also be done through my contact form or through [LinkedIn](https://www.linkedin.com/in/chinasatokolo), where my inbox is open. For privacy and security reasons, I do not accept DMs over social media.
+To contact me for interviews or speaking engagements, please email Technecultura's Media Office or contact me directly through my [Brookings Website Contact Form](https://www.brookings.edu/people/chinasa-t-okolo/). General inquiries can also be done through my contact form or through [LinkedIn](https://www.linkedin.com/in/chinasatokolo), where my inbox is open. For privacy and security reasons, I do not accept DMs over social media.
 
 **Media Contact:** \
-The Brookings Institution \
-Governance Studies Media Office \
-gsmedia@brookings.edu \
-+1 (202) 770-6520
+Technecultura \
+media [at] technecultura [dot] edu
 
 ## Biography & Headshots
 My approved biography is [here](https://github.com/chinasatokolo/MediaKit/blob/main/biography-details.md), and approved headshots are [here](https://drive.google.com/drive/folders/1ycomAbWO8v8cx2Ydv0O8sw-78uP1ZDH-?usp=sharing).
