@@ -5,7 +5,7 @@ To contact me for interviews or speaking engagements, please email Technecultura
 
 **Media Contact:** \
 Technecultura \
-media [at] technecultura [dot] edu
+media [at] technecultura [dot] org
 
 ## Biography & Headshots
 My approved biography is [here](https://github.com/chinasatokolo/MediaKit/blob/main/biography-details.md), and approved headshots are [here](https://drive.google.com/drive/folders/1ycomAbWO8v8cx2Ydv0O8sw-78uP1ZDH-?usp=sharing).
