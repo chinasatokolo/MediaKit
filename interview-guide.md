@@ -5,7 +5,7 @@ www.chinasatokolo.com
 Thank you for your interest in interviewing me! Over the years, I have enjoyed speaking to various media outlets for traditional interviews, podcasts, articles, and more. Please read this document carefully before proceeding with contact.
 
 ## Interview Requests
-The sections below detail my preferences for handling media interview requests.
+The sections below detail my preferences for handling media interview requests. All inquiries should be sent to media [at] technecultura [dot] org.
 
 ### Initial Contact
 All initial contact should detail the following:
