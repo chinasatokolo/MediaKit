@@ -5,7 +5,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Invited Talks 
-* **August 2025:** — Keynote for the [1st CoCrea Forum on Generative AI](https://colombiacrea.org/cumbre-del-jaguar/) — Medellín, Colombia_
+* **August 2025:** — Keynote at the [1st CoCrea Forum on Generative AI](https://colombiacrea.org/cumbre-del-jaguar/) — Medellín, Colombia_
 * **July 2025:** Keynote for the World Bank Group DRIVE for People AI Training Workshop — _Washington, D.C._
 * **June 2025:** "Large Models and Small Players: Leveraging AI in Small States and Startups" session at the [Internet Governance Forum](https://www.igf2025.no/) — _Oslo, Norway_
 * **June 2025:** [Fireside chat](https://webtv.un.org/en/asset/k1v/k1v9042gxh) with Joseph Gordon-Levitt at the [Internet Governance Forum](https://www.igf2025.no/) — _Oslo, Norway_
