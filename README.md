@@ -4,7 +4,7 @@ _Comprehensive media kit, collection of resources from prior speaking engagement
 To contact me for interviews or speaking engagements, please email Technecultura's Media Office or contact me directly through my [Brookings Website Contact Form](https://www.brookings.edu/people/chinasa-t-okolo/). General inquiries can also be done through my contact form or through [LinkedIn](https://www.linkedin.com/in/chinasatokolo), where my inbox is open. For privacy and security reasons, I do not accept DMs over social media.
 
 **Media Contact:** \
-Technecultura \
+Technecultura Media Office \
 media [at] technecultura [dot] org
 
 ## Biography & Headshots
