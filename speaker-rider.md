@@ -2,7 +2,7 @@
 Chinasa T. Okolo, Ph.D. \
 www.chinasatokolo.com
 
-Thank you for your interest in booking me for a speaking engagement! Over the years, I have enjoyed speaking at dozens of domestic and international workshops, panels, conferences, and webinars. Please read this document carefully before proceeding with contact. I will respond to all inquiries within three (3) business days unless I am on vacation.
+Thank you for your interest in booking me for a speaking engagement! Over the years, I have enjoyed speaking at dozens of domestic and international workshops, panels, conferences, and webinars. Please read this document carefully before proceeding with contact. I will respond to all inquiries within three (3) business days unless I am on vacation. Inquiries that do not provide sufficient detail regarding event information and travel arrangements will be ignored.
 
 Note: If requested to travel, I request at least a one-month notice for domestic events and a two-month notice for international events. 
 
