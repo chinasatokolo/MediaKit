@@ -36,9 +36,9 @@ Instagram: [Chinasa T. Okolo](https://www.instagram.com/ChinasaTOkolo) \
 Bluesky: [Chinasa T. Okolo](https://bsky.app/profile/chinasa.bsky.social) 
 
 ## Name Pronunciation
-First name: Chee-nah-sah \
-Middle Initial: Tee \
-Last Name: Oh-koh-loh
+First name: _Chee-nah-sah_ \
+Middle Initial: _Tee_ \
+Last Name: _Oh-koh-loh_
 
 
 
