@@ -5,6 +5,8 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Invited Talks 
+* **October 2025:** UNA-NCA Young Professionals Career Dinner — _Washington, D.C._
+* **September 2025:** Keynote at the launch of the African Hub on AI Safety, Peace, and Security — _Cape Town, South Africa_
 * **August 2025:** Keynote at the [1st CoCrea Forum on Generative AI](https://colombiacrea.org/cumbre-del-jaguar/) — _Medellín, Colombia_
 * **July 2025:** Keynote for the World Bank Group "DRIVE for People" AI Training Workshop — _Washington, D.C._
 * **June 2025:** "Large Models and Small Players: Leveraging AI in Small States and Startups" session at the [Internet Governance Forum](https://www.igf2025.no/) — _Oslo, Norway_
@@ -86,6 +88,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Panels & Roundtables
+* **October 2025:** Panelist in the "African Youth and Women in AI" session at the G20 AI for Africa Conference — _Cape Town, South Africa_
 * **August 2025:** "AI governance, ethics, and data sovereignty" panel at the Gates Foundation AI for Disease Modeling Convening — _Dakar, Senegal_
 * **June 2025:** "Bridging the AI Language Divide: Safeguarding Linguistic Diversity" session at the [UNESCO Global Forum on the Ethics of AI](https://www.unesco.org/en/forum-ethics-ai) — _Bangkok, Thailand_
 * **June 2025:** "Contextualizing AI Regulatory Approaches in Africa" session at [2nd Conference on the State of Artificial Intelligence in Africa](https://aiconference.cipit.org/) — _Nairobi, Kenya_
