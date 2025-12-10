@@ -5,6 +5,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Media Commentary
+* **December 2025:** ["Africa has thousands of languages. Can AI be trained on all of them?"](https://edition.cnn.com/world/africa/african-languages-ai-spc) in CNN
 * **July 2025:** ["Three critical questions every leader must ask about AI implementation"](https://www.charterworks.com/three-critical-questions-every-leader-must-ask-about-ai-implementation/) in Charter
 * **July 2025:** ["Trump's new AI policies keep culture war focus on tech companies"](https://www.npr.org/2025/07/23/nx-s1-5476771/trump-artificial-intelligence-woke-eo) in NPR
 * **May 2025:** ["Thoughts on how Africa can lead responsible AI innovation"](https://technext24.com/2025/05/15/africa-lead-responsible-ai-innovation/) in Technext
