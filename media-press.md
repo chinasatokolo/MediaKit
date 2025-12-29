@@ -34,11 +34,21 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Press Features
+* **December 2025:** TechCabal [The Builder's List](https://techcabal.com/entity/chinasa-t-okolo)
+* **August 2025:** ["19 African Women Leading The Global AI Transformation"](https://leadingladiesafrica.org/2025/08/25/19-african-women-leading-the-global-ai-transformation/) in Leading Ladies Africa
+* **July 2025:** ["Nigeria’s AI revolution: These 5 visionaries are leading the charge"](https://businessday.ng/bd-weekender/article/nigerias-ai-revolution-these-5-visionaries-are-leading-the-charge/) in Business Day
+* **July 2025:** ["After the Swahili AI Race: Africa’s Fight for Language Infrastructure Control"](https://www.geopoliticalmonitor.com/after-the-swahili-ai-race-africas-fight-for-language-infrastructure-control) in Geopolitical Monitor
+* **December 2024:** [Most Influential Africans of 2024](https://100.newafricanmagazine.com/) by New African Magazine
 * **December 2024:** [30 Under 30 AI](https://www.forbes.com/30-under-30/2025/ai) by Forbes
-* **September 2024:** [Focus on Africa Podcast](https://www.bbc.com/audio/play/p0jq52jk) by BBC
+* **November 2024:** ["From data to decisions: Five Nigerians leading intelligent transformation"](https://thenationonlineng.net/from-data-to-decisions-five-nigerians-leading-intelligent-transformation/) in The Nation
+* **October 2024:** [Interview](https://www.youtube.com/watch?v=lJTFOZQplcc) with Channels TV
+* **September 2024:** ["Computer scientist Chinasa Okolo makes Time Magazine’s 100 most influential people in artificial intelligence"](https://gazettengr.com/computer-scientist-chinasa-okolo-makes-time-magazines-100-most-influential-people-in-artificial-intelligence/) in Peoples Gazette
+* **September 2024:** ["Meet Chinasa Okolo, Nigerian on Time’s 100 people in AI"](https://businessday.ng/technology/article/meet-chinasa-okolo-nigerian-on-times-100-people-in-ai/) in Business Day
 * **September 2024:** [“TIME Magazine Names Chinasa T. Okolo ’18 One of 100 Most Influential People in AI”](https://www.pomona.edu/news/2024/09/16-time-magazine-names-chinasa-t-okolo-18-one-100-most-influential-people-ai) by Pomona College
+* **September 2024:** [“Focus on Africa Podcast”](https://www.bbc.co.uk/sounds/play/p0jq52jk?partner=uk.co.bbc&origin=share-mobile) in BBC
 * **September 2024:** [“The 100 Most Influential People in AI 2024”](https://time.com/7012894/chinasa-t-okolo/) in TIME
 * **May 2024:** [“Women in AI: Chinasa T. Okolo researches AI’s impact on the Global South”](https://techcrunch.com/2024/05/24/women-in-ai-chinasa-t-okolo-researches-ais-impact-on-the-global-south/?) in TechCrunch
+* **September 2022:** ["Think You’re Not an Entrepreneur? Think Again!"](https://awis.org/resource/think-youre-not-entrepreneur-think/) in the Association for Women in Science (AWIS) Magazine
 * **May 2022:** [“Global labor chains of the western AI”](https://netzpolitik.org/2022/series-on-digital-colonialism-global-labor-chains-of-the-western-ai/) in Netzpolitik
 * **April 2022:** [“This is why the developing world is far behind – and that’s a problem for all of us”](https://www.weforum.org/agenda/2022/04/developing-countries-are-being-left-behind-in-the-ai-race-and-that-s-a-problem-for-all-of-us/) in World Economic Forum 
 * **April 2022:** [“Developing countries are being left behind in the AI race – and that's a problem for all of us”](https://uk.news.yahoo.com/developing-countries-being-left-behind-114724193.html?guccounter=1) in Yahoo! News 
@@ -49,4 +59,4 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **March 2021:** [“Is AI Deepening the Divide Between the Global North and South?”](https://www.newsweek.com/ai-deepening-divide-between-global-north-south-opinion-1574141) in Newsweek
 * **March 2021:** [“Underpaid Workers Are Being Forced to Train Biased AI on Mechanical Turk”](https://www.vice.com/en/article/88apnv/underpaid-workers-are-being-forced-to-train-biased-ai-on-mechanical-turk) in VICE 
 * **February 2021:** [“The AI industry is built on geographic and social inequality, research shows”](https://venturebeat.com/business/the-ai-industry-is-built-on-geographic-and-social-inequality-research-shows/) by VentureBeat 
-* **June 2019:** [Cornell Graduate School Student Spotlight](https://gradschool.cornell.edu/spotlights/student-spotlight-chinasa-okolo/) 
+* **June 2019:** [Cornell Graduate School Student Spotlight](https://gradschool.cornell.edu/spotlights/student-spotlight-chinasa-okolo/)
