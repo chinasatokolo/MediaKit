@@ -43,6 +43,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 * **November 2024:** ["From data to decisions: Five Nigerians leading intelligent transformation"](https://thenationonlineng.net/from-data-to-decisions-five-nigerians-leading-intelligent-transformation/) in The Nation
 * **October 2024:** [Interview](https://www.youtube.com/watch?v=lJTFOZQplcc) with Channels TV
 * **September 2024:** ["Computer scientist Chinasa Okolo makes Time Magazine’s 100 most influential people in artificial intelligence"](https://gazettengr.com/computer-scientist-chinasa-okolo-makes-time-magazines-100-most-influential-people-in-artificial-intelligence/) in Peoples Gazette
+* **September 2024:** ["Nigeria’s Chinasa Okolo...named among Time 100 most influential people in AI"](https://www.thecable.ng/nigerias-chinasa-okolo-kauna-malgwi-named-among-time-100-most-influential-people-in-ai/) in TheCable
 * **September 2024:** ["Meet Chinasa Okolo, Nigerian on Time’s 100 people in AI"](https://businessday.ng/technology/article/meet-chinasa-okolo-nigerian-on-times-100-people-in-ai/) in Business Day
 * **September 2024:** [“TIME Magazine Names Chinasa T. Okolo ’18 One of 100 Most Influential People in AI”](https://www.pomona.edu/news/2024/09/16-time-magazine-names-chinasa-t-okolo-18-one-100-most-influential-people-ai) by Pomona College
 * **September 2024:** [“Focus on Africa Podcast”](https://www.bbc.co.uk/sounds/play/p0jq52jk?partner=uk.co.bbc&origin=share-mobile) in BBC
