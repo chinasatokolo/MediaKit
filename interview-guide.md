@@ -15,20 +15,22 @@ All initial contact should detail the following:
 * When the interview will be conducted (date and time)
 * Where and how the interview will be published (podcast episode, article, etc.)
 
+_If you are seeking media commentary, I request that you also include a deadline for your request._
+
 ### Interview Questions
-I request questions be provided at least two business days before the interview. For on-air interviews, I would also appreciate having access to an interview script or run-of-show document. 
+I request that questions be provided at least two business days before the interview. For on-air interviews, I would also appreciate having access to an interview script or run-of-show document. 
 
 ### Recording
-I generally consent to have interviews recorded to aid with transcription. For media interviews that involve on-air or pre-recorded videography, please provide me with guidance on preferred lighting and background settings. If required, please share a release form to obtain my consent for recording before the interview.
+I generally consent to interviews being recorded to aid transcription. For media interviews that involve on-air or pre-recorded videography, please provide me with guidance on preferred lighting and background settings. If required, please share a release form to obtain my consent for recording before the interview.
 
 ### Editing
 For recorded interviews, I request access to the transcript to review any discrepancies. Please inform me if the interview will be translated.
 
 ### Publication
-I request that all published content resulting from the interview be shared with me. If you intend to re-use or distribute content from my interview, especially in another format or for another platform, my consent should be requested beforehand.
+I request that all published content resulting from the interview be shared with me at the time of publication. If you intend to reuse or distribute content from my interview, especially in another format or on another platform, my consent should be requested beforehand.
 
 ### Marketing
-Please refer to this [document](https://github.com/chinasatokolo/MediaKit/blob/main/biography-details.md) for my approved biography and name pronunciation. My headshots are available [here](https://drive.google.com/drive/folders/1ycomAbWO8v8cx2Ydv0O8sw-78uP1ZDH-?usp=drive_link). I request that my middle initial “T.” be used in all formal correspondence and publication formats (“Chinasa T. Okolo” not “Chinasa Okolo”). My title ("Dr." or "Ph.D.") should be added to my name when appropriate. 
+Please refer to this [document](https://github.com/chinasatokolo/MediaKit/blob/main/biography-details.md) for my approved biography and name pronunciation. My headshots are available [here](https://drive.google.com/drive/folders/1ycomAbWO8v8cx2Ydv0O8sw-78uP1ZDH-?usp=drive_link). I request that my middle initial “T.” be used in all formal correspondence and publication formats (“Chinasa T. Okolo”, not “Chinasa Okolo”). My title ("Dr." or "Ph.D.") should be added to my name when appropriate. 
 
 I am also happy to promote my interview on social media. If necessary, please provide me with any social media templates or blurbs/hashtags to use. 
 
