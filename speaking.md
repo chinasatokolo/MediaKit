@@ -5,6 +5,13 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Invited Talks 
+* **February 2026:** AI Startups in Africa briefing presentation to the Harvard Business School Africa Research Center — _Remote_
+* **January 2026:** Keynote address the Nsk.ai Exchange Workshop on AI Governance and Data Privacy — _Remote_
+* **December 2025:** Expert Consultation for World Bank World Development Report (WDR) 2026 - _Virtual_
+* **November 2025:** Keynote at the 8th Annual [MIT Policy Hackathon](https://www.mitpolicyhackathon.org/) — _Virtual_
+* **October 2025:** blackcomputeHER Reimagining AI Summit — _Atlanta, GA_
+* **October 2025:** UNA-NCA Young Professionals Career Dinner — _Washington, D.C._
+* **September 2025:** Keynote at the [launch](https://ai.uct.ac.za/events/launch-african-hub-ai-safety-peace-and-security) of the African Hub on AI Safety, Peace, and Security — _Cape Town, South Africa_
 * **October 2025:** blackcomputeHER Reimagining AI Summit — _Atlanta, GA_
 * **October 2025:** UNA-NCA Young Professionals Career Dinner — _Washington, D.C._
 * **September 2025:** Keynote at the launch of the African Hub on AI Safety, Peace, and Security — _Cape Town, South Africa_
@@ -64,6 +71,11 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Academic & Industry Guest Lectures and Seminars
+* **March 2026:** Guest lecture within the “AI: Policy, Law, and Ethics” course, Cornell University — _Ithaca, NY_
+* **March 2026:** Guest lecture within the “Artificial Intelligence, Ethics, and Society" course, Yale University — _New Haven, CT_
+* **February 2026:** "Anticolonial AI: Reclaiming Power Against Systems of Algorithmic Extraction" talk at the Decolonial Perspectives Symposium, All Souls College — _Oxford, UK_
+* **January 2026:** Lecture at the Data Privacy & Protection Masterclass by Privacy Hub Africa — _Remote_
+* **September 2025:** Guest [lecture](https://www.youtube.com/watch?v=8GiOHJiIy0w) in the Shock Lab, University of Cape Town — _Remote_
 * **April 2025:** Massachusetts Institute of Technology’s [AI4Society Seminar Series](https://ai4society.mit.edu/seminar/) — _Cambridge, MA_
 * **April 2025:** BPIA Colin Powell Leadership Institute Lecture on Artificial Intelligence & International Security — _Remote_
 * **March 2024:** Inclusive AI Governance Guest Lecture, Global AI Governance (SEST 6735), Georgetown University — _Washington, D.C._
@@ -89,6 +101,14 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Panels & Roundtables
+* **February 2026:** "International Co-ordination for Inclusive Technology" Panel at the Tech for Good Conference, UChicago — _Remote_
+* **February 2026:** ["Toward Collective Action: A Roundtable on Safe & Trusted AI"](https://www.youtube.com/watch?v=xZlAkpybI0k) Panel at the AI Impact Summit — _New Delhi, India_
+* **February 2026:** ["Advancing Multilingual AI: Global South Governance of Non-English Model Development and Deployment"](https://www.youtube.com/watch?v=KmvuQ1ece0U) Panel at the AI Impact Summit — _New Delhi, India_
+* **February 2026:** "Data Governance at the Intersection of Digital Public Infrastructure and Artificial Intelligence" Panel at the AI Impact Summit — _New Delhi, India_
+* **January 2026:** "Regulating AI Across Borders" Panel at [Penn Carey Law Journal of International Law Symposium](https://www.pennlawjil.com/symposium-1) — _Philadelphia, PA_
+* **January 2026:** Panel at ["Benchmarking Beyond Borders: Making AI Testing Truly Global"](https://www.youtube.com/live/glO0_SwVZ5U) hosted by the Center for Democracy and Technology — _Washington, D.C._
+* **January 2026:** Panel discussion at the inaugural [Mila AI Policy Conference](https://mila.quebec/en/event/the-mila-ai-policy-conference) — _Montreal, Canada_
+* **November 2025:** [Expert Roundtable on Open Internet and Innovation](https://www.eui.eu/events?id=580376) at the European University Institute (EUI) — _Florence, Italy_
 * **November 2025:** [“Code of the Continent: Designing an African Future with AI”](https://whartonafrica.org/panels/ai-tech-panel) session at the Wharton Africa Business Forum — _Philadelphia, PA_
 * **October 2025:** Panelist in the "African Youth and Women in AI" session at the G20 AI for Africa Conference — _Cape Town, South Africa_
 * **August 2025:** "AI governance, ethics, and data sovereignty" panel at the Gates Foundation AI for Disease Modeling Convening — _Dakar, Senegal_
