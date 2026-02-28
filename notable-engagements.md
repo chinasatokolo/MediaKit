@@ -5,6 +5,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasatoko
 
 ## Briefings, Roundtables, and Summits
 
+* **February 2026:** India AI Impact Summit — _New Delhi, India_
 * **June 2025:** UNESCO Global Forum on the Ethics of AI — _Bangkok, Thailand_
 * **June 2025:** Internet Governance Forum — _Lillestrøm, Norway_
 * **April 2025:** Global AI Summit on Africa — _Kigali, Rwanda_
