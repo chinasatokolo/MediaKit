@@ -20,7 +20,7 @@ Feel free to check out my prior [speaking engagements](https://github.com/chinas
 ## Interviews
 I speak frequently to global, national, and local media. You can find my media commentary and press features [here](https://github.com/chinasatokolo/MediaKit/blob/main/media-press.md). To schedule an interview, please follow the guidelines listed [here](https://github.com/chinasatokolo/MediaKit/blob/main/interview-guide.md).
 
-I am unable to take interview requests from non-independent state-owned media outlets. 
+I am unable to take interview requests from non-independent, state-owned media outlets. 
 
 
 ### Licensing
