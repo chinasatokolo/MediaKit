@@ -1,7 +1,7 @@
 # Media Kit
 _Comprehensive media kit, collection of resources from prior speaking engagements, and guidance on booking Dr. Chinasa T. Okolo for speaking engagements._
 
-To contact me for interviews or speaking engagements, please email Technecultura's Media Office. General inquiries can also be done through my contact form or through [LinkedIn](https://www.linkedin.com/in/chinasatokolo), where my inbox is open. For privacy and security reasons, I do not accept DMs over social media.
+To contact me for interviews or speaking engagements, please email Technecultura's Media Office. General inquiries can also be done through [LinkedIn](https://www.linkedin.com/in/chinasatokolo), where my inbox is open. For privacy and security reasons, I do not accept DMs over social media.
 
 Please do not spam me with requests (e.g., simultaneously messaging on LinkedIn and emailing me). If I don't respond within a week, I am likely not available for the opportunity. Requests that do not follow the directions within my speaker rider will be ignored. I also request to receive outreach primarily on weekdays (Monday - Friday). 
 
