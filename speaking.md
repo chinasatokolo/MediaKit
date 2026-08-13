@@ -5,8 +5,12 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Invited Talks 
+* **August 2026:** Deep Learning Indaba — _Lagos, Nigeria_
+* **June 2026:** Opening Keynote for the LUNE Fellowship, ResearchRound — _Remote_
+* **June 2026:** Africa AI Village, Qhala — _Washington, D.C._
+* **May 2026:** Inaugural African Global Summit Keynote, Cornell University — _Ithaca, NY_
 * **February 2026:** AI Startups in Africa briefing presentation to the Harvard Business School Africa Research Center — _Remote_
-* **January 2026:** Keynote address the Nsk.ai Exchange Workshop on AI Governance and Data Privacy — _Remote_
+* **January 2026:** Keynote address at the Nsk.ai Exchange Workshop on AI Governance and Data Privacy — _Remote_
 * **December 2025:** Expert Consultation for World Bank World Development Report (WDR) 2026 - _Virtual_
 * **November 2025:** Keynote at the 8th Annual [MIT Policy Hackathon](https://www.mitpolicyhackathon.org/) — _Virtual_
 * **October 2025:** blackcomputeHER Reimagining AI Summit — _Atlanta, GA_
@@ -71,6 +75,10 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Academic & Industry Guest Lectures and Seminars
+* **July 2026:** Mind and Machines Summit, The Ohio State University - _Columbus, Ohio_
+* **June 2026:** "AI and the Global Majority" Lecture, EUI Florence School of Transnational Governance - _Remote_
+* **June 2026:** Fireside Chat — Thunderbird Executive Master in Global Affairs and Management - _Remote_
+* **June 2026:** Talk at the 4IR and Digitalization Seminar Series, University of South Africa (UNISA) - _Remote_
 * **March 2026:** Guest lecture within the “AI: Policy, Law, and Ethics” course, Cornell University — _Ithaca, NY_
 * **March 2026:** Guest lecture within the “Artificial Intelligence, Ethics, and Society" course, Yale University — _New Haven, CT_
 * **February 2026:** "Anticolonial AI: Reclaiming Power Against Systems of Algorithmic Extraction" talk at the Decolonial Perspectives Symposium, All Souls College — _Oxford, UK_
@@ -101,6 +109,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 
 ## Panels & Roundtables
+* **May 2026:** “Research, Policy, & Think Tanks Careers” Panel, Cohort Sistas Career Summit — _Remote_
 * **February 2026:** "International Co-ordination for Inclusive Technology" Panel at the Tech for Good Conference, UChicago — _Remote_
 * **February 2026:** ["Toward Collective Action: A Roundtable on Safe & Trusted AI"](https://www.youtube.com/watch?v=xZlAkpybI0k) Panel at the AI Impact Summit — _New Delhi, India_
 * **February 2026:** ["Advancing Multilingual AI: Global South Governance of Non-English Model Development and Deployment"](https://www.youtube.com/watch?v=KmvuQ1ece0U) Panel at the AI Impact Summit — _New Delhi, India_
