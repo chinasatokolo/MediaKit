@@ -6,6 +6,7 @@ _Please follow the guidance in my [Speaker Rider](https://github.com/chinasaokol
 
 ## Invited Talks 
 * **August 2026:** Deep Learning Indaba — _Lagos, Nigeria_
+* **July 2026:** AfricompLings Summer School 2026 — _Remote_
 * **June 2026:** Opening Keynote for the LUNE Fellowship, ResearchRound — _Remote_
 * **June 2026:** Africa AI Village, Qhala — _Washington, D.C._
 * **May 2026:** Inaugural African Global Summit Keynote, Cornell University — _Ithaca, NY_
